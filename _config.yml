@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: me@gregg.io
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/gb_logo.png"
 # blog cover
 cover: "/assets/images/cover.jpg"
 
