@@ -6,13 +6,13 @@ gems:
 # Site settings
 title: "Gregg Bernstein"
 description: > # this means to ignore newlines until "email:"
-   The website of Gregg Bernstein, user & product researcher, writer, and speaker.
+   User & Product Researcher // Writer // Speaker
 
 email: me@gregg.io
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/background_image.jpg"
 
 name: 'Gregg Bernstein'
 author: 'Gregg Bernstein'
