@@ -16,7 +16,7 @@ cover: "/assets/images/cover.jpg"
 
 name: 'Gregg Bernstein'
 author: 'Gregg Bernstein'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/gb_logo.png"
 
 paginate:	5
 
