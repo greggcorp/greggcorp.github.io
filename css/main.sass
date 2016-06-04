@@ -5,13 +5,15 @@
 
 @import 'bourbon/bourbon'
 
+@import url(https://fonts.googleapis.com/css?family=Karla);
+
 .cf
   @include clearfix
 
 $rs: 16px
 
 $font-serif: Linux Libertine
-$font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
+$font-sans: 'Karla', Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
 
 
 @mixin respond-to($breakpoint)
@@ -59,7 +61,7 @@ body
     background-repeat: no-repeat
 
 .teaserimage
-  height: 450px
+  height: 250px
   position: relative
   overflow: hidden
   background-color: #000
