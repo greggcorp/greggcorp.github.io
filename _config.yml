@@ -10,11 +10,15 @@ description: > # this means to ignore newlines until "email:"
 
 email: me@gregg.io
 #blog logo
-logo: "linkedin
-  fa-https:ww.linkedin.com/in/greggbernstein
-  cover: "/assets/images/Connect with me in LinkedIn
+logo: "/assets/images/author.jpg"
+# blog cover
+cover: "/assets/images/cover.jpg"
 
-
+#email: a-mail@mail.mail
+#blog logo
+#logo: "/assets/images/df_logo.jpg"
+# blog cover
+#cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 
 name: 'Gregg Bernstein'
