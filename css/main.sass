@@ -5,15 +5,17 @@
 
 @import 'bourbon/bourbon'
 
-@import url(https://fonts.googleapis.com/css?family=Karla);
+@import url(https://fonts.googleapis.com/css?family=Karla)
+
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px)
 
 .cf
   @include clearfix
 
 $rs: 16px
 
-$font-serif: Linux Libertine
-$font-sans: 'Karla', Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
+$font-serif: Slabo
+$font-sans: 'Karla', sans-serif
 
 
 @mixin respond-to($breakpoint)
@@ -591,8 +593,8 @@ body
       text-decoration: none
       cursor: pointer
       height: 44px
-      background: #57ad68
-      color: #fff
+      background: #fff
+      color: #000
       vertical-align: middle
       box-sizing: border-box
       border-radius: 999em

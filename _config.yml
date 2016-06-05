@@ -10,9 +10,12 @@ description: > # this means to ignore newlines until "email:"
 
 email: me@gregg.io
 #blog logo
-logo: "/assets/images/author.jpg"
-# blog cover
-cover: "/assets/images/cover.jpg"
+logo: "linkedin
+  fa-https:ww.linkedin.com/in/greggbernstein
+  cover: "/assets/images/Connect with me in LinkedIn
+
+
+
 
 name: 'Gregg Bernstein'
 author: 'Gregg Bernstein'
@@ -50,6 +53,7 @@ social:
     share_url:
     share_title:
     share_link:
+
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
