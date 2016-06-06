@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Design Archive
 permalink: /archive/
 ---
-{% include image.html url="/images/screenshot1.jpg" description="My cat, Robert Downey Jr." %}
+![Test](../assets/images/screenshot1.jpg){:class="img-responsive"}

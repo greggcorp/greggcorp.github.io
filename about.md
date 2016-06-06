@@ -13,7 +13,7 @@ He built an innovative and influential research practice over his four years at 
 <p>
 <span style="font-family:karla">Gregg earned his MFA in Graphic Design from the Savannah College of Art &amp; Design, where he focused on user experience research and design. He resides with his family in Athens, Georgia. In his spare time, he runs early and often.
 </span>
-
+<hr style="width: 100%">
 <h3>Get in touch</h3>
 <div id="wufoo-zu5w0iz0btii2p"></div>
 <script type="text/javascript">var zu5w0iz0btii2p;(function(d, t) {
