@@ -8,7 +8,7 @@ Gregg Bernstein is Senior User Researcher at <a href="http://www.voxmedia.com">V
 </span>
 <p>
 <span style="font-family:karla">
-He built an innovative and influential research practice over his four years at <a href="http://www.mailchimp.com">MailChimp</a>, and taught design, branding, and typography for university students. In a previous life, he designed for clients in the music and advertising industries. <a href="/archive">Visit the archive</a>.
+He built an innovative and influential research practice over his four years at <a href="http://www.mailchimp.com">MailChimp</a>, and taught design, branding, and typography for university students. In a previous life, he designed for clients in the music and advertising industries. <a href="">Visit the archive</a>.
 </span>
 <p>
 <span style="font-family:karla">Gregg earned his MFA in Graphic Design from the Savannah College of Art &amp; Design, where he focused on user experience research and design. He resides with his family in Athens, Georgia. In his spare time, he runs early and often.
