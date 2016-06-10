@@ -3,9 +3,8 @@ layout: page
 title: Design Archive
 permalink: /archive/
 ---
-#### Albums
-![](../assets/images/braid.jpg "Braid: Moviemusic")
-Album packaging for bands and labels. [More…](../albums)
+[![](../assets/images/braid.jpg)](../albums)
+Album art direction &amp; design for bands and labels. [More…](../albums)
 
-#### Grad School
-MFA thesis project: The Fine Print. More…
+[![](../assets/images/CTA_redesign_1.jpg)](../mfa)
+MFA thesis project: The Fine Print. [More…](../mfa)

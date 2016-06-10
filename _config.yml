@@ -37,6 +37,14 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
+#social:
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/greggbernstein
+    desc: Connect with me on LinkedIn
+    share_url:
+    share_title:
+    share_link:
+
 #  - icon:	facebook
 #    url:	https://facebook.com/???
 #    desc: Connect with me facebook
@@ -44,12 +52,12 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/greggcorp
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+#  - icon:	github
+#    url:	https://github.com/greggcorp
+#    desc:	Fork me on github
+#    share_url:
+#    share_title:
+#    share_link:
 
 
 #  - icon:	google-plus
