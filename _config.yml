@@ -49,7 +49,7 @@ social:
   - google_analytics: UA-79596449-1
 
 # 404
-  - permalink: /404.html
+permalink: /404.html
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
