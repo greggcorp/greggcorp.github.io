@@ -9,13 +9,15 @@ He built an innovative and influential research practice over his four years at 
 
 Gregg earned his MFA in Graphic Design from the Savannah College of Art &amp; Design, where he focused on user experience research and design. He resides with his family in Athens, Georgia. In his spare time, he runs early and often.
 <hr>
-### Some things I've written
-Vox User Testing
+### Some Things I Wrote or Presented
+[Remote User Testing at Vox](http://product.voxmedia.com/2016/5/26/11787530/remote-user-testing-at-vox): A walk through the low-friction, lightweight tools and methods I use for user testing at Vox Media.
 
-Radicalizing Data
+[Full Stories](https://slideslive.com/38894476/full-stories) (presentation): As designers of products and experiences, we rely on the wisdom of our personal and collective experiences, training, and education, and we employ tools to wrangle insights from big data. Yet there's much to be gained by going beyond wisdom and data. In this keynote, I talk about the role of context in user and product research, share methods to think about and capture context, and explain how context allows us to make truly informed product decisions.
 
-How to make personas
+[Radicalizing Data](http://us5.campaign-archive1.com/?awesome=no&u=7e093c5cf4&id=361d158320): A description of how we let data dictate the product development journey at MailChimp.
 
-MailChimp Personas
+[How To Create UX Personas](http://uxmastery.com/create-ux-personas/): A persona is a representation of a type of customer. Personas answer the question, “Who are we designing for?” and they help to align strategy and goals to specific user groups. So how do you conduct a persona analysis? This short animated video will give you some helpful pointers.
 
-*Find more articles on my LinkedIn profile.*
+[User Persona Research](https://blog.mailchimp.com/new-mailchimp-user-persona-research/): How MailChimp UX developed a clear idea of our current users so we could better empathize with and design for them.
+
+*Find more publications on my [LinkedIn](https://www.linkedin.com/in/greggbernstein) profile.*

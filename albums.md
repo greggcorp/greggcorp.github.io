@@ -5,7 +5,7 @@ permalink: /albums/
 ---
 A long time ago, I designed some albums. Here are a handful…
 
-![Braid: MovieMusic, Volumes 1 & 2](../assets/images/braid.jpg "Braid: Moviemusic")
+![Braid: MovieMusic, Volumes One & Two](../assets/images/braid.jpg "Braid: Moviemusic")
 ![Hey Mercedes: Everynight Fire Works](../assets/images/hmenfw.jpg "Hey Mercedes: Everynight, Fire Works")
 ![Hey Mercedes: Loses Control](../assets/images/hmlc.jpg "Hey Mercedes: Loses Control")
 ![Mates of State: Team Boo](../assets/images/mos.jpg "Mates of State: Team Boo")
