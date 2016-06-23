@@ -2,7 +2,7 @@
 layout: post
 title:  "Android: Future Perfect, Present Fractured"
 date:   2016-06-14 14:34:25
-tags: regular
+tags: featured
 image:
 image2:
 ---
