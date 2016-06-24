@@ -48,6 +48,6 @@ Google pays lip service to this conundrum by [issuing weak threats to some of th
 ## Attaining a universal experience
 Brands often make promises of varying degrees of emptiness, and Google proved no exception. But continuing to issue empty promises erodes trust, confidence, and—ultimately—the user experience.
 
-After reaching my breaking point on my year-old Moto X running a deprecated Android OS, I charged up my 2012 iPhone 4 and started using it full-time. It runs the latest version of iOS. It receives regular updates. And short of some hardware features like TouchID and 3D Touch, it achieves the rich experience Apple promises.
+After reaching my breaking point on my year-old Moto X running a deprecated Android OS, I charged up my 2012 iPhone 4 and started using it full-time. It runs the latest version of iOS. It receives regular updates. And short of some hardware features like TouchID and 3D Touch, it achieves the rich experience Apple promises to everyone.
 
-Android is something different to everyone, an entirely specific experience. Android is Altria: designed meaninglessness.
+Android is something different to everyone, but universal to no one. Android is Altria: a loose federation of disjointed parts.
