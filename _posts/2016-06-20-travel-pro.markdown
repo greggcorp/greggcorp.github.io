@@ -3,7 +3,7 @@ layout: post
 title:  "Travel Pro"
 date:   2016-06-20 14:34:25
 tags: regular
-image:
+image: /assets/article_images/2016-06-20-travel-pro/wing.jpg
 ---
 I've traveled a fair bit over the past few years for [research projects](http://mailchimp.com/2015/#miles-traveled-for-product-and-customer-research) and to speak at conferences. I strive for something akin to minimalism when packing, though not to the degree that I go without a few creature comforts.
 
@@ -25,8 +25,11 @@ I don't check my luggage for business travel, and neither should you. I stick to
 ### Rolling Carry-on
 I use a [Delsey 19" suitcase](https://www.amazon.com/gp/product/B00PX0QJDY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) that I carry aboard with me. It's small enough to fit into the overhead bins of every major domestic and international airline. It also features a polycarbonate shell, which both helps to keep its shape (no need to stuff it into the overhead bin) and protects my goods (which can include a laptop or Kindle).
 
+![The Delsey Helium suitcase.](/assets/article_images/2016-06-20-travel-pro/delsey.jpg "Delsey suitcase image")
+
 ### Backpack
 After ample user testing, I settled on the [Timbuk2 Command backpack](http://www.timbuk2.com/command-tsa-friendly-laptop-backpack/392.html). It's not the platonic ideal of backpacks, but it hits a lot of my checkmarks: expandable, TSA compliant, protective, and understated. If I had to do it again, I'd go with the [Mission Workshop Sanction](http://missionworkshop.com/products/bags/backpacks/rucksack/sanction.php), but the Command is holding up nicely after two years being shoved under airplane seats and thrown into cabs. Every couple of months I spray it with Scotchgard as an added layer of protection.
+![The Timbuk2 Command backpack.](/assets/article_images/2016-06-20-travel-pro/command.jpg "Timbuk2 backpack image")
 
 ## Organization
 
@@ -46,6 +49,9 @@ To keep organized in my backpack, I use two Maxpedition cases—the smaller [Mic
 * Eyeglass repair kit
 * Kensington presentation remote
 * A [travel spork](https://www.amazon.com/MSR-6908-Spork-Red/dp/B00A9A2BJE/ref=pd_sim_sbs_468_4?ie=UTF8&dpID=31-6z52IqDL&dpSrc=sims&preST=_AC_UL480_SR468%2C480_&psc=1&refRID=SGEQK2DTF1YW7Y8MBKCM). (I highly recommend this—there will come a late-night meal in your hotel room when you're tired, half-dressed, and lacking a utensil. When that time comes, this will be your moment of glory.)
+
+![The mighty travel spork](/assets/article_images/2016-06-20-travel-pro/spork.jpg "Spork image")
+
 
 ## Tech
 I work as a UX researcher, which means I often travel with the intention of capturing moments and mutterings. I've used a variety of devices over the years, but here's my current set-up:
@@ -67,11 +73,15 @@ Some apparel rules of thumb:
 Shoes make or break a trip. The right pair is flexible enough to work for meetings, socializing, and exploring. They need to work in all climates and conditions and still provide comfort.
 
 * [Tretorn Skymra](http://static.beyondtherack.com/productimages/TRE47236013/large/TRE47236013_1.jpg) (black on black): These are _the_ shoes. They're Gore-Tex, waterproof, comfortable, and stylish. I wear these on the plane, through the city, to meetings, and to the bar for a cocktail. They go in and out of stock, hence the lack of a link. But if you find them, pounce.
+![Tretorn Skymras = Footwear Happiness.](/assets/article_images/2016-06-20-travel-pro/tretorns.jpg "Tretorn shoes image")
+
 * Dr. Martens [Alfie boot](https://www.amazon.com/gp/product/B005M8VR84/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) or [Callum shoe](https://www.amazon.com/gp/product/B005UWI5U0/ref=oh_aui_search_detailpage?ie=UTF8&psc=1). These canvas shoes are perfect for dry climates and lots of walking, and they're super durable and comfortable. Note that they're not waterproof. I sprayed mine with Scotchgard, which worked in a light mist but failed in a storm.
+![Dr. Martens Alfie boot](/assets/article_images/2016-06-20-travel-pro/alfie.jpg "Alfie boots image")
+
 
 ### Clothing
 * [Uniqlo Easy Care Slim Fit](http://www.uniqlo.com/content/uniqlo/us/en/men/dress-shirts/easy-care-slim-fit-stretch.html) dress shirts: no wrinkles, no worries.
-* Dickie's [Slim Skinny](https://www.amazon.com/gp/product/B00B6E4RVW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) work pants: durable and stylish.
+* Dickie's [Slim Skinny](https://www.amazon.com/gp/product/B00B6E4RVW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) work pants: Don't judge by the brand name—these are tough as nails, stain-resistant, and fit like a glove. They're also dirt cheap.
 * [Uniqlo Airism](http://www.uniqlo.com/us/search.html?q=airism%20boxer) boxers: lightweight, durable, hand-washable, fast-drying, perfect.
 * [Darn Tough Socks](https://darntough.com/): Merino wool is both odor-resistant and quick to dry, which is really all you need in a sock, right? Not to mention, they're guaranteed for life.
 * [Uniqlo Short-Sleeve tee](http://www.uniqlo.com/us/product/men-packaged-dry-crew-neck-short-sleeve-t-shirt-138665.html#08-003): The cotton-poly blend is both comfortable and quick to dry.
