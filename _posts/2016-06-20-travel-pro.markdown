@@ -89,10 +89,15 @@ Shoes make or break a trip. The right pair is flexible enough to work for meetin
 
 ### Outer Layers
 * [Patagonia Nano Puff Jacket](http://www.patagonia.com/us/product/mens-nano-puff-jacket?p=84211-1): This is the lightest-weight, warmest, most packable jacket I've ever worn. The jacket stuffs into its chest pocket, making it eminently packable.
+
+![The Patagonia Nano Puff jacket.](/assets/article_images/2016-06-20-travel-pro/patagonia.jpg "Patagonia jacket image")
+
 * Other things I pack, depending on the trip: a Merino cardigan or Uniqlo travel blazer for layering over my tee or dress shirt, a Merino beanie for cold environments, and a packable rain shell.
 
 ## Odds and Ends
+![The Pelican Micro Case.](/assets/article_images/2016-06-20-travel-pro/pelican.jpg "Pelican case image")
+
 * [Streamlight LED flashlight](https://www.amazon.com/gp/product/B0015UC17E/ref=oh_aui_search_detailpage?ie=UTF8&psc=1): The power will go out. That beach will be fun to walk on late at night. That alley is dark. You'll find a reason.
 * A sharpie, a [travel screwdriver](https://www.amazon.com/gp/product/B0014KMDZ0/ref=oh_aui_search_detailpage?ie=UTF8&psc=1), a notebook, and an [indestructible pen](https://www.amazon.com/gp/product/B003AACADM/ref=oh_aui_search_detailpage?ie=UTF8&psc=1). Just have these on hand—you'll use them all.
-* If you wear eyeglasses, always pack a spare. I keep mine in a [Pelican Micro Box](https://www.amazon.com/gp/product/B001TOLRC6/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1), which is crush-proof.
+* If you wear eyeglasses, always pack a spare. I keep mine in a [Pelican Micro Case](https://www.amazon.com/gp/product/B001TOLRC6/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1), which is crush-proof.
 * For toiletries, I use the [Eagle Creek Specter](http://shop.eaglecreek.com/packit-specter-quick-trip/d/1245_cl_1884). It's small, but holds the essentials.
