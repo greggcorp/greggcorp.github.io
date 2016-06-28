@@ -2,6 +2,7 @@
 gems:
   - jemoji
   - jekyll-paginate
+  - jekyll-feed
 
 # Site settings
 title: "Gregg Bernstein"
