@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Gregg Bernstein"
 description: > # this means to ignore newlines until "email:"
-   User & Product Researcher &#124; Writer &amp; Editor &#124; Speaker
+   User & Product Researcher // Writer & Editor // Speaker
 
 email: me@gregg.io
 #blog logo
