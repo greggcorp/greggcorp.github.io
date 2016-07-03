@@ -2,6 +2,7 @@
 gems:
   - jemoji
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Site settings
 title: "Gregg Bernstein"
@@ -41,6 +42,14 @@ social:
   - icon:	linkedin
     url:	https://www.linkedin.com/in/greggbernstein
     desc: Connect with me on LinkedIn
+    share_url:
+    share_title:
+    share_link:
+
+#social:
+  - icon:	newspaper-o
+    url:	/subscribe/
+    desc: Join my mailing list
     share_url:
     share_title:
     share_link:

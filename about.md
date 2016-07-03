@@ -20,4 +20,4 @@ Gregg earned his MFA in Graphic Design from the Savannah College of Art &amp; De
 
 [User Persona Research](https://blog.mailchimp.com/new-mailchimp-user-persona-research/): How MailChimp UX developed a clear idea of our current users so we could better empathize with and design for them.
 
-*Find more publications on my [LinkedIn](https://www.linkedin.com/in/greggbernstein) profile.*
+*Find more publications on my [LinkedIn](https://www.linkedin.com/in/greggbernstein) profile. Get notified of the latest posts via [my newsletter](/subscribe/).*
