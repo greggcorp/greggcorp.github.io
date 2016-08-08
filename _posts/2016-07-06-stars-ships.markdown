@@ -3,7 +3,7 @@ layout: post
 title:  "Stars, Ships, and Expectations"
 date:   2016-07-06 14:34:25
 tags: regular
-image: /assets/article_images/2016-07-06-stars/stars.jpg
+image: 
 ---
 The products we use are the result of countless compromises and tradeoffs before we even experience them. Every engineering specification, and every design decision, stem from discussions we're not privy to about form, time, effort, budget, and so many other considerations.
 

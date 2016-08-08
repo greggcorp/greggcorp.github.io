@@ -3,7 +3,7 @@ layout: post
 title:  "Travel Pro"
 date:   2016-06-20 14:34:25
 tags: regular
-image: /assets/article_images/2016-06-20-travel-pro/wings.jpg
+image: 
 ---
 I've traveled a fair bit over the past few years for [research projects](http://mailchimp.com/2015/#miles-traveled-for-product-and-customer-research) and to speak at conferences. I strive for something akin to minimalism when packing, though not to the degree that I go without a few creature comforts.
 
