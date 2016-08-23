@@ -5,4 +5,3 @@ gem 'github-pages'
 gem 'bourbon'
 gem 'jemoji'
 gem 'jekyll-sitemap'
-gem 'jekyll-admin', group: :jekyll_plugins
