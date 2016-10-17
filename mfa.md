@@ -10,7 +10,7 @@ As part of my MFA Thesis project at the [Savannah College of Art and Design](htt
 
 These slides demonstrate a proposed redesign of legal agreements modeled after the Apple iTunes CTA, presented at bottom.
 
-Please find the research behind this project in my original [thesis](https://dl.dropboxusercontent.com/u/21742864/bernstein_thesis.pdf). Additionally, read more about this project at [Fast Company](https://www.fastcodesign.com/1665000/how-to-fix-the-nightmare-of-apples-terms-of-service).
+Please find the research behind this project in my original [thesis](https://drive.google.com/open?id=0Bz_kqYbQD-PnTmM4MzFDUFh1QW8). Additionally, read more about this project at [Fast Company](https://www.fastcodesign.com/1665000/how-to-fix-the-nightmare-of-apples-terms-of-service).
 <br><br>
 ![Proposed redesign: Step 2](../assets/images/CTA_redesign_2.jpg "Proposed redesign of digital legal agreements")
 ![Proposed redesign: Step 3](../assets/images/CTA_redesign_3.jpg "Proposed redesign of digital legal agreements")
