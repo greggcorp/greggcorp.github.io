@@ -11,7 +11,7 @@ I'm often asked my favorite research resources, so I've put together a very brie
 
 * [Just Enough Research](http://abookapart.com/products/just-enough-research): Erika Hall masterfully explains the elements of research as they relate to products, design, and users.
 * [Interviewing Users](http://rosenfeldmedia.com/books/interviewing-users/): Talking to users is essential to build the right products for the right audience, and Steve Portigal demonstrates how to do it right.
-* [How to Make Sense of Any Mess](http://www.howtomakesenseofanymess.com/): Research is information, and Abbi Covert organizes it in ways that help frame and solve messy problems.
+* [How to Make Sense of Any Mess](http://www.howtomakesenseofanymess.com/): Research is information, and Abby Covert organizes it in ways that help frame and solve messy problems.
 * [Google Ventures User Research Library](http://library.gv.com/tagged/user-research): Stories, documentation, and resources from one of the best design teams on the planet.
 * [The UX Research Plan That Stakeholders Love](http://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/): UX leader Tomer Sharon shares a concise and powerful way to think about, frame, and share projects.
 * [Complete Beginner’s Guide to UX Research](http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/): The fine folks at UX Booth put together a great introduction to UX research, ranging from methods and tools to books and people to follow.
