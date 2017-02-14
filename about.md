@@ -10,6 +10,8 @@ He built an innovative and influential research practice over his four years at 
 Gregg earned his MFA in Graphic Design from the Savannah College of Art &amp; Design, where he focused on user experience research and design. He resides with his family in Athens, Georgia. In his spare time, he runs early and often.
 <hr>
 ### Some Words &amp; Presentations
+[Capture the Context: Pro Tips for User Interviews](https://blog.optimalworkshop.com/capture-the-context-pro-tips-for-user-interviews): There's more to interviews than asking and answering.
+
 [Remote User Testing at Vox](http://product.voxmedia.com/2016/5/26/11787530/remote-user-testing-at-vox): A walk through the low-friction, lightweight tools and methods we use for user testing at Vox Media.
 
 [Full Stories](https://slideslive.com/38894476/full-stories) (presentation): As designers of products and experiences, we rely on the wisdom of our personal and collective experiences, training, and education, and we employ tools to wrangle insights from big data. Yet there's much to be gained by going beyond wisdom and data. This keynote explores the role of context in user and product research, shares methods to think about and capture context, and explains how context allows us to make truly informed product decisions.
