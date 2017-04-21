@@ -1,8 +1,9 @@
 ---
-layout: page
 title: About Gregg
-permalink: /about/
+layout: page
+permalink: "/about/"
 ---
+
 Gregg Bernstein is Senior User Researcher at [Vox Media](http://www.voxmedia.com). He spends his days listening, thinking, collaborating, analyzing, writing, and then listening some more. He also speaks around the world about his work at conferences and for such companies as Etsy, EA Games, Fullstory, and more.
 
 He built an innovative and influential research practice over his four years at [MailChimp](http://www.mailchimp.com), and taught design, branding, and typography for university students. In a previous life, he designed for clients in the music and advertising industries. [Visit the archive](../archive).
@@ -10,6 +11,8 @@ He built an innovative and influential research practice over his four years at 
 Gregg earned his MFA in Graphic Design from the Savannah College of Art &amp; Design, where he focused on user experience research and design. He resides with his family in Athens, Georgia. In his spare time, he runs early and often.
 <hr>
 ### Some Words &amp; Presentations
+[Ambient Research: Using Redundancy to Share Product Insights](https://product.voxmedia.com/2017/4/19/15309792/ambient-ux-research): Creating an ambient awareness of product and user research at Vox Media.
+
 [Capture the Context: Pro Tips for User Interviews](https://blog.optimalworkshop.com/capture-the-context-pro-tips-for-user-interviews): There's more to interviews than asking and answering.
 
 [Remote User Testing at Vox](http://product.voxmedia.com/2016/5/26/11787530/remote-user-testing-at-vox): A walk through the low-friction, lightweight tools and methods we use for user testing at Vox Media.
