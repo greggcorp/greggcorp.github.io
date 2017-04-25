@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Templates
+title: UX Research Templates
 date:   2017-04-25 11:34:25
 tags: regular
 image:
