@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Resources
-date:   2016-11-18 14:34:25
+date:   2017-04-28 14:34:25
 tags: regular
 image:
 image2:
@@ -15,3 +15,6 @@ I'm often asked my favorite research resources, so I've put together a very brie
 * [Google Ventures User Research Library](http://library.gv.com/tagged/user-research): Stories, documentation, and resources from one of the best design teams on the planet.
 * [The UX Research Plan That Stakeholders Love](http://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/): UX leader Tomer Sharon shares a concise and powerful way to think about, frame, and share projects.
 * [Complete Beginner’s Guide to UX Research](http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/): The fine folks at UX Booth put together a great introduction to UX research, ranging from methods and tools to books and people to follow.
+* [Practical Design Discovery](https://abookapart.com/products/practical-design-discovery): Dan Brown's second chapter, "Frame the Problem," provides a concise overview of practical design research.
+
+_Updated April, 2017 to include_ Practical Design Discovery _by  Dan Brown._
