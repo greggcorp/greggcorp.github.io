@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Resources
-redirect_from: /2016/11/18/resources.html
+redirect_from: /2016/11/18/resources.markdown
 date:   2017-04-28 14:34:25
 tags: regular
 image:
