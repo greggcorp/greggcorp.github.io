@@ -4,6 +4,7 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-admin
+  - jekyll-redirect-from
 
 # Site settings
 title: "Gregg Bernstein"

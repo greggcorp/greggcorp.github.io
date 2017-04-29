@@ -164,6 +164,7 @@ DEPENDENCIES
   bourbon
   github-pages
   jekyll-admin
+  jekyll-redirect-from
   jekyll-sitemap
   jemoji
 
