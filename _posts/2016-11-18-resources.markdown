@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Research Resources
-redirect_from: posts/2016/11/18/
-date:   2017-04-28 14:34:25
+date:   2016-11-18 14:34:25
 tags: regular
 image:
 image2:
