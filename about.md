@@ -4,19 +4,38 @@ title: About
 permalink: /about/
 ---
 
+Gregg Bernstein is Senior User Researcher at [Vox Media](http://www.voxmedia.com). He spends his days listening, thinking, collaborating, analyzing, writing, and then listening some more. He also speaks around the world about his work at conferences and for such companies as Etsy, EA Games, Fullstory, and more.
+
+He built an innovative and influential research practice over his four years at [MailChimp](http://www.mailchimp.com), and taught design, branding, and typography for university students. In a previous life, he designed for clients in the music and advertising industries. [Visit the archive](../archive).
+
+Gregg earned his MFA in Graphic Design from the Savannah College of Art &amp; Design, where he focused on user experience research and design. He resides with his family in Athens, Georgia. In his spare time, he runs early and often.
+
+----
+<h2>Some words &amp; presentations</h2>
+[Ambient Research: Using Redundancy to Share Product Insights](https://product.voxmedia.com/2017/4/19/15309792/ambient-ux-research): Creating an ambient awareness of product and user research at Vox Media.
+
+[Capture the Context: Pro Tips for User Interviews](https://blog.optimalworkshop.com/capture-the-context-pro-tips-for-user-interviews): There's more to interviews than asking and answering.
+
+[Remote User Testing at Vox](http://product.voxmedia.com/2016/5/26/11787530/remote-user-testing-at-vox): A walk through the low-friction, lightweight tools and methods we use for user testing at Vox Media.
+
+[Full Stories](https://slideslive.com/38894476/full-stories) (presentation): As designers of products and experiences, we rely on the wisdom of our personal and collective experiences, training, and education, and we employ tools to wrangle insights from big data. Yet there's much to be gained by going beyond wisdom and data. This keynote explores the role of context in user and product research, shares methods to think about and capture context, and explains how context allows us to make truly informed product decisions.
+
+[Radicalizing Data](http://us5.campaign-archive1.com/?awesome=no&u=7e093c5cf4&id=361d158320): A description of how we let data dictate the product development journey at MailChimp.
+
+[How To Create UX Personas](http://uxmastery.com/create-ux-personas/): A persona is a representation of a type of customer. Personas answer the question, “Who are we designing for?” and they help to align strategy and goals to specific user groups. So how do you conduct a persona analysis? This short animated video will give you some helpful pointers.
+
+[User Persona Research](https://blog.mailchimp.com/new-mailchimp-user-persona-research/): How MailChimp UX developed a clear idea of our current users so we could better empathize with and design for them.
+
+----
+*Find more publications on my [LinkedIn](https://www.linkedin.com/in/greggbernstein) profile. Get notified of the latest posts via [my newsletter](/subscribe/).*
+
 <a class="twitter-follow-button"
-  href="https://twitter.com/fffabs"
-  data-show-count="true"
+  href="https://twitter.com/greggcorp"
+  data-show-count="false"
   data-size="large">
-Follow @fffabs
+Follow @greggcorp
 </a>
-
-This is [Fabio Basile](http://fffabs.com/)'s little online notebook. I like to design apps, websites and games for people like you, and I use this space to occasionally talk about them. I am a self-taught digital designer and occasional speaker.
-
- I hold a combined Bachelor's Degree in software engineering and video game development from [Lancaster University](http://www.lancaster.ac.uk) and the [University of Central Lancashire](http://www.uclan.ac.uk).
-
-I also run [Brotherhood](http://brotherhood.io), with my business and design partner [Jamie](http://www.syke.co). I spend most of my time between the UK, Italy and Japan. I am an advocate of remote work.
 
 ----
 <h2>About the site</h2>
-This site was made on an [Apple rMBP](http://www.apple.com/uk/) using [Sublime Text 3](http://sublimetext.com/) and [Sketch](http://sketch-app.com/). It's powered by [jekyllrb.com](http://bohemiancoding.com/sketch/). The text is set in [FaktPro](https://www.fontshop.com/families/fakt).
+Frankensteined together with [Jekyll](http://jekyllrb.com) from the [Estivo](http://github.com/fffabs/estivo) theme and hosted on [Github](http://github.com). The text is set in [FaktPro](https://www.fontshop.com/families/fakt).

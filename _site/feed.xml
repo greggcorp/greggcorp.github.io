@@ -1,208 +1,422 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fffabs</title>
-    <description>fffabs &amp;copy 2015 - go create!
+    <title>Gregg Bernstein | gregg.io</title>
+    <description>User &amp; Product Researcher // Writer &amp; Editor // Speaker
 </description>
-    <link>http://f-word.co/</link>
-    <atom:link href="http://f-word.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Jan 2015 17:18:12 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Jan 2015 17:18:12 +0000</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 05 May 2017 15:16:33 -0400</pubDate>
+    <lastBuildDate>Fri, 05 May 2017 15:16:33 -0400</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
     
       <item>
-        <title>My new year!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>UX Research Templates</title>
+        <description>&lt;p&gt;On the Vox Product blog, I wrote about how I create an &lt;a href=&quot;https://product.voxmedia.com/2017/4/19/15309792/ambient-ux-research&quot;&gt;ambient awareness of user and product research&lt;/a&gt; across my product team by sharing everything, everywhere—repeatedly and redundantly.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Most of my sharing takes place over Slack and in Google Docs, and a few people asked me to &lt;strong&gt;share my research doc templates&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:
-&lt;!-- linenos --&gt;&lt;/p&gt;
+&lt;h3 id=&quot;slack&quot;&gt;Slack&lt;/h3&gt;
+&lt;p&gt;When I share notes from a single interview or usability test in Slack, I keep things simple with a bolded headline and a handful of bullet points:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/slack_template.png&quot; alt=&quot;An example of how I share quick takeaways in Slack.&quot; title=&quot;An example of how I share quick takeaways in Slack.&quot; /&gt;
+I want my colleagues to be aware of what I just learned, and who I learned it from. I try to anonymize participants in Slack by only referring to their role, not their name. Because I work with many internal users, I want to avoid bringing undue attention on any one person. (I also want to avoid interrupting their work by inadvertently summoning them to the Slack channel!)&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;google-doc&quot;&gt;Google Doc&lt;/h3&gt;
+&lt;p&gt;When it comes to collecting findings into a more permanent document, I use &lt;a href=&quot;https://docs.google.com/document/d/1yuTzHv47qCRbqbcdzu8subZpbKXfCXNglsvkjCYIM-w/edit?usp=sharing&quot;&gt;this Google Doc template&lt;/a&gt; as a starting point.&lt;/p&gt;
 
+&lt;p&gt;I keep reports as brief as possible, and open the doc with &lt;strong&gt;recommendations and issues&lt;/strong&gt;. That’s what people want to see, so why make them work to find it? Placing the recommendations at the top also makes it possible to review the findings by previewing (rather than opening) the file in Google Drive.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/google_template.png&quot; alt=&quot;An example of how I structure takeaways in Google Docs.&quot; title=&quot;An example of how I structure takeaways in Google Docs.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I then explain how I tested (remotely or IRL; with a prototype or something that’s been released) and recap each individual test or interview (almost verbatim from what I shared in Slack, perhaps with a few more details).&lt;/p&gt;
+
+&lt;p&gt;Then I use a &lt;strong&gt;Metadata&lt;/strong&gt; section to share the project genesis, goals, methodology, participants, script, schedule, and recruiting pitches. The metadata is meant to allow anyone to follow my steps, validate my work, or repeat the research process.&lt;/p&gt;
+
+&lt;p&gt;This metadata section will look familiar to anyone who’s seen Tomer Sharon’s wonderful &lt;em&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/&quot;&gt;UX Research Plan That Stakeholders Love&lt;/a&gt;&lt;/em&gt;—I folded in a modified version of Tomer’s plan so this doc can serve as a proposal, a plan, or an archive depending on the stage of a project.&lt;/p&gt;
+
+&lt;h3 id=&quot;alignment&quot;&gt;Alignment&lt;/h3&gt;
+&lt;p&gt;I listed Slack and Google Docs as the media of choice for my organization. The important thing to note is that the medium you use is entirely dependent on your organization’s habits. If your org runs on Basecamp, or a combination of HipChat + Confluence, go that route.&lt;/p&gt;
+
+&lt;p&gt;Similarly, you’ll want to dismantle these templates and reassemble them to serve and inform your particular colleagues.&lt;/p&gt;
+
+&lt;h3 id=&quot;-me&quot;&gt;@ Me&lt;/h3&gt;
+&lt;p&gt;I love to see how different organizations capture and share information. If you have templates or recommendations you want to share, tweet at or email me!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 02 Jan 2015 12:49:22 +0000</pubDate>
-        <link>http://f-word.co/my-new-year/</link>
-        <guid isPermaLink="true">http://f-word.co/my-new-year/</guid>
+        <pubDate>Tue, 25 Apr 2017 07:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2017/04/25/templates.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/25/templates.html</guid>
         
-        
-        <category>new</category>
-        
-        <category>year</category>
-        
-        <category>resolution</category>
         
       </item>
     
       <item>
-        <title>Playing with UI</title>
-        <description>&lt;p&gt;AT&amp;amp;T You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>The Parts Bin</title>
+        <description>&lt;p&gt;Sometimes you propose something to your colleagues, but it’s not met with much enthusiasm.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/FlakCannon_Large.png&quot; alt=&quot;My Flak Cannon&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Sometimes a good design isn’t quite good enough.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;And sometimes a great idea works well on its own but not in concert with other parts.&lt;/p&gt;
 
-&lt;p&gt;Trying out lists:&lt;/p&gt;
+&lt;p&gt;You could choose to see these as setbacks or disappointments. &lt;em&gt;Or you could see them as parts&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Back when I worked at &lt;a href=&quot;http://mailchimp.com/&quot;&gt;MailChimp&lt;/a&gt;, I was introduced to the concept of the &lt;strong&gt;parts bin&lt;/strong&gt; by our CEO, &lt;a href=&quot;http://twitter.com/benchestnut&quot;&gt;Ben&lt;/a&gt;. To Ben, every design or prototype held merit, regardless of whether it amounted to anything. At some point, those half-baked designs would become valuable in service to even better ideas.&lt;/p&gt;
+
+&lt;p&gt;The parts bin became a research mindset for me and others at the company, as evidenced by our adoption of Evernote as a &lt;a href=&quot;http://alistapart.com/article/connected-ux&quot;&gt;repository for anything research-related&lt;/a&gt;. A stray data point might not be useful today, but we figured it would be useful to &lt;em&gt;someone, someday&lt;/em&gt;. As I’ve written before, &lt;a href=&quot;http://gregg.io/2016/07/07/everything.html&quot;&gt;everything is important&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The parts bin applies beyond design and research. When you frame your ideas as parts to be broken down and reconfigured time and time again, they become less precious and more practical.&lt;/p&gt;
+
+&lt;p&gt;The key is to hold onto them, and come up with a bin that works. Without the bin to document your ideas, parts will disappear into the ether. To that end, I want to share how I’ve set up my parts bin (or &lt;em&gt;bins&lt;/em&gt;, in my case).&lt;/p&gt;
+
+&lt;h2 id=&quot;ideas-and-inputs&quot;&gt;Ideas and Inputs&lt;/h2&gt;
+&lt;p&gt;I break my parts bins across two dimensions: &lt;strong&gt;ideas and inputs&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Item&lt;/li&gt;
-  &lt;li&gt;Item 2&lt;/li&gt;
-  &lt;li&gt;Item 3&lt;/li&gt;
+  &lt;li&gt;When I have an &lt;strong&gt;idea&lt;/strong&gt;, I’m excited and need to capture it in a way that’s lightweight and actionable.&lt;/li&gt;
+  &lt;li&gt;When I come across context for an idea—be it an article, data visualization, document, or whatever—that’s an &lt;strong&gt;input&lt;/strong&gt; that I need to tag and archive.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Or Ordered lists&lt;/p&gt;
+&lt;p&gt;For ideas, I rely on Wunderlist. This app allows me to keep multiple lists, with each list affording subtasks and a notes field. I keep a lot of lists, including people to talk to, articles to read, and posts I want to write.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Yo&lt;/li&gt;
-  &lt;li&gt;Is&lt;/li&gt;
-  &lt;li&gt;Cool&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Looking at the latter, I have dozens of writing ideas. Each idea typically contains a few points I want to make, along with a sentence (or a string of words) to help me remember the context in which I came up with the idea. For this post, the list looks like this:&lt;/p&gt;
 
-&lt;p&gt;Nested Lists&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/wl.png&quot; alt=&quot;This list hints at the structural pieces for this post—Ben at MailChimp, Wunderlist, Evernote, etc.&quot; title=&quot;Screenshot of Wunderlist&quot; /&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Item 1
-    &lt;ol&gt;
-      &lt;li&gt;A corollary to the above item.&lt;/li&gt;
-      &lt;li&gt;Yet another point to consider.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Item 2
-    &lt;ul&gt;
-      &lt;li&gt;A corollary that does not need to be ordered.
-        &lt;ul&gt;
-          &lt;li&gt;This is indented four spaces, because it’s two spaces further than the item above.&lt;/li&gt;
-          &lt;li&gt;You might want to consider makign a new list.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;I lean on Evernote for inputs. For instance, I’ve been studying cognitive interviews lately—a technique wonderfully documented in this recent &lt;a href=&quot;http://www.wired.com/2016/05/how-to-interrogate-suspects/&quot;&gt;Wired article&lt;/a&gt;. As I come across more literature on this topic, into my Evernote notebooks it goes.&lt;/p&gt;
 
-&lt;p&gt;In the words of Abraham Lincoln:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Pardon my french&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;This text will be italic&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;This text will be bold&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Everyone &lt;em&gt;must&lt;/em&gt; attend the meeting at 5 o’clock today.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Check out this neat program I wrote:&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;x = 2
-x = 2 + 2
-what is x
-&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;These two repositories, or &lt;em&gt;parts bins&lt;/em&gt;, give me dozens of starting points and hundreds of supporting documents. And with a mindset that all of this will—in some way—prove useful, it’s a rewarding habit.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Dec 2014 12:07:22 +0000</pubDate>
-        <link>http://f-word.co/playing-with-UI/</link>
-        <guid isPermaLink="true">http://f-word.co/playing-with-UI/</guid>
+        <pubDate>Sun, 20 Nov 2016 09:34:25 -0500</pubDate>
+        <link>http://localhost:4000/2016/11/20/parts.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/11/20/parts.html</guid>
         
-        
-        <category>ui</category>
-        
-        <category>experiment</category>
         
       </item>
     
       <item>
-        <title>It&#39;s a new game</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Research Resources</title>
+        <description>&lt;p&gt;I’m often asked my favorite research resources, so I’ve put together a very brief list of go-to books and articles. These are suitable for researchers, designers, or product managers of any level of expertise:&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://abookapart.com/products/just-enough-research&quot;&gt;Just Enough Research&lt;/a&gt;: Erika Hall masterfully explains the elements of research as they relate to products, design, and users.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rosenfeldmedia.com/books/interviewing-users/&quot;&gt;Interviewing Users&lt;/a&gt;: Talking to users is essential to build the right products for the right audience, and Steve Portigal demonstrates how to do it right.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.howtomakesenseofanymess.com/&quot;&gt;How to Make Sense of Any Mess&lt;/a&gt;: Research is information, and Abby Covert organizes it in ways that help frame and solve messy problems.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://library.gv.com/tagged/user-research&quot;&gt;Google Ventures User Research Library&lt;/a&gt;: Stories, documentation, and resources from one of the best design teams on the planet.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/&quot;&gt;The UX Research Plan That Stakeholders Love&lt;/a&gt;: UX leader Tomer Sharon shares a concise and powerful way to think about, frame, and share projects.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/&quot;&gt;Complete Beginner’s Guide to UX Research&lt;/a&gt;: The fine folks at UX Booth put together a great introduction to UX research, ranging from methods and tools to books and people to follow.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://abookapart.com/products/practical-design-discovery&quot;&gt;Practical Design Discovery&lt;/a&gt;: Dan Brown’s second chapter, “Frame the Problem,” provides a concise overview of practical design research.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/Queen_Full.jpg&quot; alt=&quot;Queen Full&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;&lt;em&gt;Updated April 28, 2017 to include&lt;/em&gt; Practical Design Discovery &lt;em&gt;by  Dan Brown.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 11 Dec 2014 12:07:22 +0000</pubDate>
-        <link>http://f-word.co/its-a-new-game/</link>
-        <guid isPermaLink="true">http://f-word.co/its-a-new-game/</guid>
+        <pubDate>Fri, 18 Nov 2016 09:34:25 -0500</pubDate>
+        <link>http://localhost:4000/2016/11/18/resources.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/11/18/resources.html</guid>
         
-        
-        <category>jekyll</category>
         
       </item>
     
       <item>
-        <title>This is new</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Listen Hard</title>
+        <description>&lt;p&gt;Listening is &lt;em&gt;hard&lt;/em&gt;. It takes effort, patience, and practice. All at once, you’re taking in a narrative, providing cues that you’re engaged (nodding, saying “um-hmm”), analyzing what’s taking place, mulling over cogent responses, and mentally filing away bits to return to later.&lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot; data-link-color=&quot;#F26452&quot;&gt;&lt;p&gt;My studio (&lt;a href=&quot;https://twitter.com/BrotherhoodIO&quot;&gt;@BrotherhoodIO&lt;/a&gt;) is currently looking for new projects. Get in touch if you’re interested! (Any retweets appreciated) :)&lt;/p&gt;&amp;mdash; ғάвισ ↬ (@fffabs) &lt;a href=&quot;https://twitter.com/fffabs/status/530722531272323073&quot;&gt;November 7, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;p&gt;Doing so professionally adds additional tasks: documenting everything, missing nothing, and staying somewhat on course.&lt;/p&gt;
+
+&lt;p&gt;In reading about interview techniques, I came across another way to listen: the &lt;strong&gt;voice-relational analysis&lt;/strong&gt;. Typically this happens after an interview is completed—when you’re reviewing transcripts. But perform this analysis enough and you begin to do so &lt;em&gt;while listening&lt;/em&gt;, giving you a more accurate perspective on what you’re hearing, and directions for new questions.&lt;/p&gt;
+
+&lt;p&gt;Here’s how the voice-relational analysis works:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Listen for plot&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is what you’re already doing—you’re capturing the story.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Listen for voice&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s say we’re talking about software, and I ask, “What apps do you use?” Here’s a typical response:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I use Gmail and Evernote. Oh, and we also use Microsoft Word.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The shift from “I” to “We” is telling—this person expresses personal preference versus organizational requirements by shifting voice. She likes Gmail and Evernote, but her company has saddled everyone with Word. (Of course, this might not be the entire story, but now we have an opportunity to explore further.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Listen for roles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Using the same answer above, we can determine the role of the person we’re listening to. The statement, “We use Microsoft Word,” seems to imply that selecting Word was &lt;em&gt;someone else’s&lt;/em&gt; choice. We can begin to form an org chart in our heads, and this person is not at the top. (Again, this might not be entirely true, but it provides us with more questions as we listen further.)&lt;/p&gt;
+
+&lt;p&gt;Listening for role tells us who is empowered, versus who is not in a position of authority. If you’re trying to sell a product, or determine who might be authorized to make a purchase, this is solid gold.&lt;/p&gt;
+
+&lt;p&gt;Listening is hard, but so crucial. Listen hard enough and you’ll gain empathy and understanding. You’ll hear what you need to build the right experience for the right person.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Jul 2016 10:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2016/07/22/listen.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/22/listen.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Everything is Important</title>
+        <description>&lt;p&gt;I spend a lot of my days interviewing people. Or rather, listening to people—coworkers, customers, and professional colleagues.&lt;/p&gt;
+
+&lt;p&gt;Most of these conversations stem from a research project, or a desire to improve my research skills. Regardless, I approach my interviews with the mindset that &lt;strong&gt;everything is important, until proven otherwise.&lt;/strong&gt; I believe this mantra makes me a better researcher, and provides me with better research findings. Here’s why:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;If everything is important, I don’t want to miss a thing&lt;/strong&gt;. I stay on my toes, enthralled by every single thing I’m hearing. If it’s important enough that someone is sharing it with me, it’s important enough to receive my undivided, enthusiastic attention.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;If everything is important, I’m disinclined to steer the conversation in a selfish direction&lt;/strong&gt;. That’s not to say I throw my own interview goals out the window, but I favor the direction set forth by my participant.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;If everything is important, the conversation holds meaning for us both&lt;/strong&gt;. My participant has a partner in me who can listen, reflect, validate, and elicit further thoughts. I get to learn something, and exit the conversation more insightful than I entered.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This mindset scales beyond conversations. A couple of years ago I described how I apply it to all sorts of data—like support emails and analytics—in &lt;a href=&quot;http://us5.campaign-archive1.com/?awesome=no&amp;amp;u=7e093c5cf4&amp;amp;id=361d158320&quot;&gt;Radicalizing Data&lt;/a&gt;. Simon Ouderkirk of WordPress &lt;a href=&quot;https://www.helpscout.net/blog/using-support-data-you-have/&quot;&gt;shares a similar philosophy&lt;/a&gt; of “assuming best intent” and maintaining “optimistic curiosity” in his wonderful post for Help Scout.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;By embracing optimism, we invest in the belief that what’s in front of us holds meaning.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s too easy to become calcified, to assume that we’ve heard it all before, to judge rather than journal. The best case scenario to assuming importance is that we gain wisdom and empathy. There is no worst case scenario.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jul 2016 10:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2016/07/07/everything.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/07/everything.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Stars, Ships, and Expectations</title>
+        <description>&lt;p&gt;The products we use are the result of countless compromises and tradeoffs before we even experience them. Every engineering specification, and every design decision, stem from discussions we’re not privy to about form, time, effort, budget, and so many other considerations.&lt;/p&gt;
+
+&lt;p&gt;Once a product is brought forth into the world, our individual experiences with it introduce context and variables that can stretch far beyond what its designers envisioned. How I use a product differs from how you use it, where you use it, when you use it.&lt;/p&gt;
+
+&lt;p&gt;I say this because last week, I wrote about &lt;a href=&quot;/2016-06-14-android-future/&quot;&gt;the anti-experience&lt;/a&gt; of the Android operating system. My thesis was that Android is a loose collection of disparate experiences:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/devolute&quot;&gt;@devolute&lt;/a&gt; &lt;a href=&quot;https://twitter.com/RWD&quot;&gt;@RWD&lt;/a&gt; The right UX shouldn&amp;#39;t be a game of Android Lotto.&lt;/p&gt;&amp;mdash; Gregg Bernstein (@greggcorp) &lt;a href=&quot;https://twitter.com/greggcorp/status/748179776477798400&quot;&gt;June 29, 2016&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;With all the thoughtful decisions that yielded the latest Android operating system, every phone carrier, manufacturer, and model adds a variable that yields vastly different outputs. &lt;a href=&quot;https://twitter.com/beep&quot;&gt;Ethan Marcotte&lt;/a&gt; added the technical context I had neglected by linking to the slide deck in this tweet:&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-cards=&quot;hidden&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;“If somebody tells you they tested their website on Android, laugh evilly and show them this slidedeck.”&lt;a href=&quot;http://t.co/T14Upqoym5&quot;&gt;http://t.co/T14Upqoym5&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;p much&lt;/p&gt;&amp;mdash; Responsive Design (@RWD) &lt;a href=&quot;https://twitter.com/RWD/status/488782076502896640&quot;&gt;July 14, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-coffeescript&quot; data-lang=&quot;coffeescript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;layerA&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;animate&lt;/span&gt;
-    &lt;span class=&quot;nv&quot;&gt;properties:&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;200&lt;/span&gt;
-    &lt;span class=&quot;nv&quot;&gt;curve: &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;ease-in-out&amp;quot;&lt;/span&gt;
+&lt;p&gt;TL;DR: the best possible version of Android is doomed to failure by an impossibility of contexts.&lt;/p&gt;
 
-&lt;span class=&quot;nx&quot;&gt;layerA&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;on&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Events&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;AnimationEnd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;-&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;layerA&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;animate&lt;/span&gt;
-        &lt;span class=&quot;nv&quot;&gt;properties:&lt;/span&gt;
-            &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;
-        &lt;span class=&quot;nv&quot;&gt;curve: &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;ease-in-out&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Ian Parr responded to my article:&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/RWD&quot;&gt;@RWD&lt;/a&gt; &lt;a href=&quot;https://twitter.com/greggcorp&quot;&gt;@greggcorp&lt;/a&gt; I presume you’ve been told that you bought the wrong Android phone if you wanted the unified experience you talk about&lt;/p&gt;&amp;mdash; devolute (@devolute) &lt;a href=&quot;https://twitter.com/devolute/status/748177489785163776&quot;&gt;June 29, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Similarly, Jiri Jerabek wrote:&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/greggcorp&quot;&gt;@greggcorp&lt;/a&gt; Nexus is Google&amp;#39;s &amp;#39;North Star&amp;#39; for 3rd parties. I&amp;#39;m not sure whether what you described is a &amp;#39;problem&amp;#39; for the majority of users.&lt;/p&gt;&amp;mdash; Jiri Jerabek (@JiriJerabek) &lt;a href=&quot;https://twitter.com/JiriJerabek/status/748195407730180096&quot;&gt;June 29, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
+&lt;p&gt;Both Ian and Jiri raise interesting points about the roles of North Stars and flagships, and where reasonable expectations give way to diminishing returns. A design &lt;a href=&quot;https://medium.com/the-year-of-the-looking-glass/designs-north-star-d469193063c5#.7ggv7r5te&quot;&gt;North Star&lt;/a&gt;, as described by Facebook’s Julie Zhou, is an achievable, realistic, inspiring, and unifying vision. At its core, a North Star provides internal guidance to the team building a product.&lt;/p&gt;
+
+&lt;p&gt;Inversely, a flagship is the brand or service for which a company is most well known. The flagship is determined by audience size, sales figures, or popularity. &lt;strong&gt;It’s an outcome, not a goal.&lt;/strong&gt; The Accord is Honda’s flagship automobile, just as the Air Jordan remains Nike’s flagship shoe and Windows arguably represents Microsoft.&lt;/p&gt;
+
+&lt;p&gt;With all eyes on a flagship, it’s incumbent on a company to reserve their latest innovations for these popular offerings. In Android’s case, we can see that updating their flagship Nexus phones has two potential goals:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It signals that Google isn’t resting on its laurels&lt;/li&gt;
+  &lt;li&gt;It introduces a halo effect for the rest of the brand. That is, what’s seen in the Nexus is reflected to varying degrees in offerings from Samsung, HTC, Motorola, and on down the line.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And this illustrates the difficult position Android finds itself in, as their flagship Nexus phones are &lt;em&gt;also&lt;/em&gt; positioned as partner-facing North Stars: beacons of achievable, realistic &lt;em&gt;possibilities&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;But possibilities yield to &lt;em&gt;expectations&lt;/em&gt;. The expectation is that the innovations in the flagship will surface elsewhere, which for an Android purchaser is a risky proposition. What appears in the flagship, however tightly correlated to the North Star that brought it to life, has no guarantee of trickling down to mass production.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 08 Dec 2014 01:07:22 +0000</pubDate>
-        <link>http://f-word.co/this-is-new/</link>
-        <guid isPermaLink="true">http://f-word.co/this-is-new/</guid>
+        <pubDate>Wed, 06 Jul 2016 10:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2016/07/06/stars-ships.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/06/stars-ships.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Travel Pro</title>
+        <description>&lt;p&gt;I’ve traveled a fair bit over the past few years for &lt;a href=&quot;http://mailchimp.com/2015/#miles-traveled-for-product-and-customer-research&quot;&gt;research projects&lt;/a&gt; and to speak at conferences. I strive for something akin to minimalism when packing, though not to the degree that I go without a few creature comforts.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;After reading the best practices and pro-tips from sites like &lt;a href=&quot;http://www.carryology.com/&quot;&gt;Carryology&lt;/a&gt;, &lt;a href=&quot;http://blog.tortugabackpacks.com/&quot;&gt;Packsmith&lt;/a&gt;, &lt;a href=&quot;http://snarkynomad.com/&quot;&gt;Snarky Nomad&lt;/a&gt;, and &lt;a href=&quot;http://thewirecutter.com/reviews/travel-guide/&quot;&gt;The Wirecutter&lt;/a&gt;, I thought it would be both useful and fun to create my own “business traveler” gear and apparel packing list.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:
-&lt;!-- linenos --&gt;&lt;/p&gt;
+&lt;p&gt;Before we get to the list, I have two gear and packing guidelines:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Spend more now to save more later&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I invest in durability, comfort, and features. Yes, this comes at a price, but good apparel and gear will last eons.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Plan with abandon; pack with restraint&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Really, really think about your schedule, and pack accordingly, not aspirationally. It’s easier to buy one new item on the road than it is to lug ten items you don’t need. From my friend &lt;a href=&quot;http://blog.seanbonner.com/2013/01/08/baggage/&quot;&gt;Sean’s blog&lt;/a&gt;, I picked up the mental exercise that &lt;em&gt;I must forfeit any clothing I pack but don’t use&lt;/em&gt;. That simple mindset keeps me honest when packing.&lt;/p&gt;
+
+&lt;h2 id=&quot;luggage&quot;&gt;Luggage&lt;/h2&gt;
+&lt;p&gt;I don’t check my luggage for business travel, and neither should you. I stick to two bags, max: a rollerboard and a backpack. Between both, I can pack clothing and gear for days upon days of travel.&lt;/p&gt;
+
+&lt;h3 id=&quot;rolling-carry-on&quot;&gt;Rolling Carry-on&lt;/h3&gt;
+&lt;p&gt;I use a &lt;a href=&quot;https://www.amazon.com/gp/product/B00PX0QJDY/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Delsey 19” suitcase&lt;/a&gt; that I carry aboard with me. It’s small enough to fit into the overhead bins of every major domestic and international airline. It also features a polycarbonate shell, which both helps to keep its shape (no need to stuff it into the overhead bin) and protects my goods (which can include a laptop or Kindle).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/delsey.jpg&quot; alt=&quot;The Delsey Helium suitcase.&quot; title=&quot;Delsey suitcase image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;backpack&quot;&gt;Backpack&lt;/h3&gt;
+&lt;p&gt;After ample user testing, I settled on the &lt;a href=&quot;http://www.timbuk2.com/command-tsa-friendly-laptop-backpack/392.html&quot;&gt;Timbuk2 Command backpack&lt;/a&gt;. It’s not the platonic ideal of backpacks, but it hits a lot of my checkmarks: expandable, TSA compliant, protective, and understated. If I had to do it again, I’d go with the &lt;a href=&quot;http://missionworkshop.com/products/bags/backpacks/rucksack/sanction.php&quot;&gt;Mission Workshop Sanction&lt;/a&gt;, but the Command is holding up nicely after two years being shoved under airplane seats and thrown into cabs. Every couple of months I spray it with Scotchgard as an added layer of protection.
+&lt;img src=&quot;/assets/images/command.jpg&quot; alt=&quot;The Timbuk2 Command backpack.&quot; title=&quot;Timbuk2 backpack image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;organization&quot;&gt;Organization&lt;/h2&gt;
+
+&lt;h3 id=&quot;packing-cubes&quot;&gt;Packing Cubes&lt;/h3&gt;
+&lt;p&gt;I employ a mix of both &lt;a href=&quot;https://www.amazon.com/dp/B00BYFC4Z4/ref=twister_B00F9T852C?_encoding=UTF8&amp;amp;psc=1&quot;&gt;Eagle Creek compression&lt;/a&gt; and &lt;a href=&quot;http://www.ebags.com/product/ebags/packing-cubes-3pc-set/13032&quot;&gt;eBags standard&lt;/a&gt; packing cubes. I resisted these for so long, but they make a world of difference for both organization and fitting everything into my bag.&lt;/p&gt;
+
+&lt;h3 id=&quot;compression-sack&quot;&gt;Compression Sack&lt;/h3&gt;
+&lt;p&gt;I hand-wash my clothes at the hotel, but eventually things get dirty. That’s where the &lt;a href=&quot;https://www.amazon.com/Outdoor-Research-Ultralight-Z-Compression-8-Liter/dp/B00ATNI5X2?ie=UTF8&amp;amp;ascsubtag=WC82781&amp;amp;linkCode=xm2&amp;amp;tag=thewire06-20&quot;&gt;Outdoor Research Ultralight Z-Compression Sack&lt;/a&gt; comes in handy. I picked this up after reading about it on the Wirecutter. It’s great for taking a couple of day’s worth of clothes and compressing them down to the size of a coffee mug.&lt;/p&gt;
+
+&lt;h3 id=&quot;pocket-organizers&quot;&gt;Pocket Organizers&lt;/h3&gt;
+&lt;p&gt;To keep organized in my backpack, I use two Maxpedition cases—the smaller &lt;a href=&quot;https://www.amazon.com/gp/product/B005CSYVSW/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Micro&lt;/a&gt; for charging cords and adapters, and the larger &lt;a href=&quot;https://www.amazon.com/gp/product/B00AQ6E5XQ/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Beefy&lt;/a&gt; for:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Power supplies and a surge protector&lt;/li&gt;
+  &lt;li&gt;Ethernet cable and adapter&lt;/li&gt;
+  &lt;li&gt;HDMI adapter&lt;/li&gt;
+  &lt;li&gt;Homemade first aid kit/sewing kit&lt;/li&gt;
+  &lt;li&gt;Eyeglass repair kit&lt;/li&gt;
+  &lt;li&gt;Kensington presentation remote&lt;/li&gt;
+  &lt;li&gt;A &lt;a href=&quot;https://www.amazon.com/MSR-6908-Spork-Red/dp/B00A9A2BJE/ref=pd_sim_sbs_468_4?ie=UTF8&amp;amp;dpID=31-6z52IqDL&amp;amp;dpSrc=sims&amp;amp;preST=_AC_UL480_SR468%2C480_&amp;amp;psc=1&amp;amp;refRID=SGEQK2DTF1YW7Y8MBKCM&quot;&gt;travel spork&lt;/a&gt;. (I highly recommend this—there will come a late-night meal in your hotel room when you’re tired, half-dressed, and lacking a utensil. When that time comes, this will be your moment of glory.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/spork.jpg&quot; alt=&quot;The mighty travel spork&quot; title=&quot;Spork image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tech&quot;&gt;Tech&lt;/h2&gt;
+&lt;p&gt;I work as a UX researcher, which means I often travel with the intention of capturing moments and mutterings. I’ve used a variety of devices over the years, but here’s my current set-up:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;MacBook Pro 13”: Powerful, lightweight, and gorgeous.&lt;/li&gt;
+  &lt;li&gt;Kindle Paperwhite. Why bring a book when you can bring the library? And speaking of libraries, you can download classics (like most of the Sherlock Holmes books) from &lt;a href=&quot;https://www.gutenberg.org/wiki/Free_Kindle_Books&quot;&gt;Project Gutenberg&lt;/a&gt; for free.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Zoom-H2N-H2n-Handy-Recorder/dp/B005CQ2ZY6/ref=sr_1_1?s=sporting-goods&amp;amp;ie=UTF8&amp;amp;qid=1466560732&amp;amp;sr=8-1&amp;amp;keywords=zoom+h2n&quot;&gt;Zoom H2N&lt;/a&gt; audio recorder, because everyone misses something during an interview.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;apparel&quot;&gt;Apparel&lt;/h2&gt;
+&lt;p&gt;Some apparel rules of thumb:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Any visible article of clothing must be wearable with any other visible article. In a nutshell, everything works with everything. I stick to black shoes, navy or black pants, and simple check or plaid patterns to ensure that no matter what I put on, the combination will look professional (and dope).&lt;/li&gt;
+  &lt;li&gt;I only pack hand-washable, quick-drying, wrinkle-resistant clothing. I don’t iron, and I want to be able to wash and dry my clothes in my hotel bathroom.&lt;/li&gt;
+  &lt;li&gt;I pack four changes of clothes, max, plus one set of whatever I need for a run or the gym. With what I wear on the plane, that’s three changes of clothes in my suitcase. Once I’m at my destination, I have something I’m wearing, something hanging to dry in the hotel shower, and two changes of clothes at the ready.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;shoes&quot;&gt;Shoes&lt;/h3&gt;
+&lt;p&gt;Shoes make or break a trip. The right pair is flexible enough to work for meetings, socializing, and exploring. They need to work in all climates and conditions and still provide comfort.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://static.beyondtherack.com/productimages/TRE47236013/large/TRE47236013_1.jpg&quot;&gt;Tretorn Skymra&lt;/a&gt; (black on black): These are &lt;em&gt;the&lt;/em&gt; shoes. They’re Gore-Tex, waterproof, comfortable, and stylish. I wear these on the plane, through the city, to meetings, and to the bar for a cocktail. They go in and out of stock, hence the lack of a link. But if you find them, pounce.
+&lt;img src=&quot;/assets/images/tretorns.jpg&quot; alt=&quot;Tretorn Skymras = Footwear Happiness.&quot; title=&quot;Tretorn shoes image&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Dr. Martens &lt;a href=&quot;https://www.amazon.com/gp/product/B005M8VR84/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Alfie boot&lt;/a&gt; or &lt;a href=&quot;https://www.amazon.com/gp/product/B005UWI5U0/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Callum shoe&lt;/a&gt;. These canvas shoes are perfect for dry climates and lots of walking, and they’re super durable and comfortable. Note that they’re not waterproof. I sprayed mine with Scotchgard, which worked in a light mist but failed in a storm.
+&lt;img src=&quot;/assets/images/alfie.jpg&quot; alt=&quot;Dr. Martens Alfie boot&quot; title=&quot;Alfie boots image&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;clothing&quot;&gt;Clothing&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.uniqlo.com/content/uniqlo/us/en/men/dress-shirts/easy-care-slim-fit-stretch.html&quot;&gt;Uniqlo Easy Care Slim Fit&lt;/a&gt; dress shirts: no wrinkles, no worries.&lt;/li&gt;
+  &lt;li&gt;Dickie’s &lt;a href=&quot;https://www.amazon.com/gp/product/B00B6E4RVW/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Slim Skinny&lt;/a&gt; work pants: Don’t judge by the brand name—these are tough as nails, stain-resistant, and fit like a glove. They’re also dirt cheap.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.uniqlo.com/us/search.html?q=airism%20boxer&quot;&gt;Uniqlo Airism&lt;/a&gt; boxers: lightweight, durable, hand-washable, fast-drying, perfect.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://darntough.com/&quot;&gt;Darn Tough Socks&lt;/a&gt;: Merino wool is both odor-resistant and quick to dry, which is really all you need in a sock, right? Not to mention, they’re guaranteed for life.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.uniqlo.com/us/product/men-packaged-dry-crew-neck-short-sleeve-t-shirt-138665.html#08-003&quot;&gt;Uniqlo Short-Sleeve tee&lt;/a&gt;: The cotton-poly blend is both comfortable and quick to dry.&lt;/li&gt;
+  &lt;li&gt;I also pack one or two white cotton-poly undershirts (for meetings), track pants/shorts (for pajamas/lounging), and one running combo (shorts/tights, shirt, shoes). I’m steadfast in using my running shoes only for running, which means I pack two pairs of shoes on all trips.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;outer-layers&quot;&gt;Outer Layers&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.patagonia.com/us/product/mens-nano-puff-jacket?p=84211-1&quot;&gt;Patagonia Nano Puff Jacket&lt;/a&gt;: This is the lightest-weight, warmest, most packable jacket I’ve ever worn. The jacket stuffs into its chest pocket, making it eminently packable.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/patagonia.jpg&quot; alt=&quot;The Patagonia Nano Puff jacket.&quot; title=&quot;Patagonia jacket image&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Other things I pack, depending on the trip: a Merino cardigan or Uniqlo travel blazer for layering over my tee or dress shirt, a Merino beanie for cold environments, and a packable rain shell.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;odds-and-ends&quot;&gt;Odds and Ends&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/pelican.jpg&quot; alt=&quot;The Pelican Micro Case.&quot; title=&quot;Pelican case image&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B0015UC17E/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Streamlight LED flashlight&lt;/a&gt;: The power will go out. That beach will be fun to walk on late at night. That alley is dark. You’ll find a reason.&lt;/li&gt;
+  &lt;li&gt;A sharpie, a &lt;a href=&quot;https://www.amazon.com/gp/product/B0014KMDZ0/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;travel screwdriver&lt;/a&gt;, a notebook, and an &lt;a href=&quot;https://www.amazon.com/gp/product/B003AACADM/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;indestructible pen&lt;/a&gt;. Just have these on hand—you’ll use them all.&lt;/li&gt;
+  &lt;li&gt;If you wear eyeglasses, always pack a spare. I keep mine in a &lt;a href=&quot;https://www.amazon.com/gp/product/B001TOLRC6/ref=oh_aui_detailpage_o01_s01?ie=UTF8&amp;amp;psc=1&quot;&gt;Pelican Micro Case&lt;/a&gt;, which is crush-proof.&lt;/li&gt;
+  &lt;li&gt;For toiletries, I use the &lt;a href=&quot;http://shop.eaglecreek.com/packit-specter-quick-trip/d/1245_cl_1884&quot;&gt;Eagle Creek Specter&lt;/a&gt;. It’s small, but holds the essentials.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Sun, 08 Sep 2013 00:38:22 +0100</pubDate>
-        <link>http://f-word.co/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://f-word.co/welcome-to-jekyll/</guid>
+        <pubDate>Mon, 20 Jun 2016 10:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2016/06/20/travel-pro.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/06/20/travel-pro.html</guid>
         
         
-        <category>jekyll</category>
+      </item>
+    
+      <item>
+        <title>Android: Future Perfect, Present Fractured</title>
+        <description>&lt;p&gt;In 2003, Philip Morris, parent company of Philip Morris Tobacco and Kraft foods, rebranded itself. The goal of the rebrand was to, in name only, distance Philip Morris’s tobacco holdings from their other, less negatively perceived company properties (like Oreo Cookies and Miller Beer). Thus a new, nonsensical name for the parent company was announced: &lt;strong&gt;Altria&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Altria is a meaningless name, designed only to unify a disparate collection of entities and shield less desirable parts behind a nebulous whole.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/altria-share-logo.png&quot; alt=&quot;Like the name of the company, Altria's logo signifies nothing.&quot; title=&quot;Altria's Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Five years later, Google’s Android mobile platform launched. Since 2013, Android has ranked as the best-selling operating system on phones and tablets. And since 2013, the name Android has served a role similar to that of Altria: a loose collection of disparate experiences unified under an empty moniker.&lt;/p&gt;
+
+&lt;h2 id=&quot;embracing-androids-potential&quot;&gt;Embracing Android’s Potential&lt;/h2&gt;
+&lt;p&gt;In 2015, I switched from iOS to Android. My rationale for doing so was rooted in the realization that, though my phone came from Apple, the software I relied on most either came from Google or was operating-system agnostic (Evernote, Wunderlist, and Spotify, to name a few).&lt;/p&gt;
+
+&lt;p&gt;That realization, coupled with the promise of Google’s &lt;a href=&quot;https://material.google.com/&quot;&gt;Material Design&lt;/a&gt;, swayed me to make the leap. With Material Design, Google’s software shared a single visual language, and a beautiful one at that. When I envisioned the user experience of Material Design on Motorola’s Moto X phone—a strikingly gorgeous combination of bamboo and dark aluminum—I was sold.&lt;/p&gt;
+
+&lt;h2 id=&quot;unmet-expectations&quot;&gt;Unmet Expectations&lt;/h2&gt;
+&lt;p&gt;That leap to Android and Motorola, however, landed me on unsteady ground, and my excitement was short-lived. My new flagship phone shipped with an outdated and decidedly &lt;em&gt;not&lt;/em&gt; Material version of the Android operating system. To install the new version, Android Lollipop, I had to wait. Until when? Until Motorola released it for use on this specific phone model. Estimated ship date: eventually.&lt;/p&gt;
+
+&lt;p&gt;That first impression of the Android universe was underwhelming. I had seen Google’s vision for the future of Android, and this wasn’t it. This just sucked. Things continued to suck for nearly a month.&lt;/p&gt;
+
+&lt;p&gt;When Motorola finally released Android Lollipop for my phone, I was (belatedly) impressed. The interfaces and interactions felt intuitive. The animations were snappy. The notifications seemed useful. As more app developers embraced Google’s design standards, the ecosystem of beautiful apps began to rival that of iOS.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-cards=&quot;hidden&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Android at its best: podcast controls, weather, file upload, movie download. Simultaneous actions and a clear UI. 🏆 &lt;a href=&quot;https://t.co/lpHPG10P1p&quot;&gt;pic.twitter.com/lpHPG10P1p&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dan Kim (@dankim) &lt;a href=&quot;https://twitter.com/dankim/status/737460324031430657&quot;&gt;May 31, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;And then Google announced the next version of their OS, Marshmallow, just a few months after I received Lollipop. Marshmallow’s new features looked &lt;a href=&quot;https://twitter.com/dankim/status/737460324031430657/photo/1&quot;&gt;truly useful&lt;/a&gt;, and I would &lt;em&gt;never get to experience them&lt;/em&gt;—Motorola announced that my phone would not receive an update to the new OS.&lt;/p&gt;
+
+&lt;h2 id=&quot;there-isnt-a-typical-android-experience&quot;&gt;There isn’t a &lt;em&gt;typical&lt;/em&gt; Android experience&lt;/h2&gt;
+&lt;p&gt;Over time, the performance of my phone diminished. The operating system lagged far behind my button pushes and swipes. Running certain apps decreased my battery life percentage in real time. And to remind me of the experience I wasn’t getting, the apps I used were updated to embrace OS features unavailable to me on my still-new phone.&lt;/p&gt;
+
+&lt;p&gt;This isn’t a problem unique to Motorola, but it’s a problem nonetheless. And it lands squarely at the feet of Google. &lt;strong&gt;There isn’t an &lt;em&gt;Android&lt;/em&gt; experience; only an empty brand name shielding a fractured and embarrassing collection of unique occurrences.&lt;/strong&gt; Altria beget Android. And Android is worse.&lt;/p&gt;
+
+&lt;h2 id=&quot;impossible-promises&quot;&gt;Impossible promises&lt;/h2&gt;
+&lt;p&gt;The difference between Altria and Android is that Philip Morris was honest about their intent to hide their less palatable brands from public view. Google promised a better experience through both their design system and their evolutionary operating system. But they also knew full well that they could &lt;em&gt;never deliver&lt;/em&gt; on those promises.&lt;/p&gt;
+
+&lt;p&gt;Android runs on countless devices from myriad manufacturers across many carriers. With so much variability in device configurations, Google allows each manufacturer to customize Android as needed. This helps Android achieve scale, but also explains how there can never be a universal Android experience.&lt;/p&gt;
+
+&lt;p&gt;Google pays lip service to this conundrum by &lt;a href=&quot;http://www.cnet.com/news/google-might-start-shaming-companies-that-take-too-long-to-update-their-android-phones/&quot;&gt;issuing weak threats to some of their manufacturing partners&lt;/a&gt;. But these are their partners they threaten—without these partners, Android doesn’t exist at all. Only Apple, by controlling both their hardware and software, can execute the definitive vision they proffer. Android only offers lesser and diminished versions of its promise.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/circles.png&quot; alt=&quot;Only Apple provides a cohesive user experience.&quot; title=&quot;A blob of an experience&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;attaining-a-universal-experience&quot;&gt;Attaining a universal experience&lt;/h2&gt;
+&lt;p&gt;Brands often make promises of varying degrees of emptiness, and Google proved no exception. But continuing to issue empty promises erodes trust, confidence, and—ultimately—the user experience.&lt;/p&gt;
+
+&lt;p&gt;After reaching my breaking point on my year-old Moto X running a deprecated Android OS, I charged up my 2012 iPhone 5 and started using it full-time. It runs the latest version of iOS. It receives regular updates. And short of some hardware features like TouchID and 3D Touch, it achieves the rich experience Apple promises to everyone.&lt;/p&gt;
+
+&lt;p&gt;Android is something different to everyone, but universal to no one. Android is Altria: a loose federation of disjointed parts.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Jun 2016 10:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2016/06/14/android-future.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/06/14/android-future.html</guid>
         
-        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>An Outlet for Output</title>
+        <description>&lt;p&gt;As a designer, I used to obsess over the emails I sent to clients about projects. Most contained a clear thesis statement about my design objectives. And an outline of how I planned to approach image and type. Sometimes I included a breakdown of the production schedule. I’d re-read these emails long after hitting ‘send’ just to see what made sense and where I needed to improve.&lt;/p&gt;
+
+&lt;p&gt;In hindsight it’s clear that I didn’t love design; I loved the writing process. And writing &lt;em&gt;about&lt;/em&gt; design and process. And thinking over design problems and potential solutions. I loved getting things out of my head and into a medium where others could clearly understand me.&lt;/p&gt;
+
+&lt;p&gt;After a decade of designing for clients, I taught design for college students. I spent an inordinate amount of time writing lecture and project outlines, and providing lengthy replies to emails about design assignments. Then I went to grad school to “master” design with the intention of teaching for a living, and, yep… more writing—long design criticisms, links to interesting articles, feedback for classmates about their projects, and a thesis heavier on words than design.&lt;/p&gt;
+
+&lt;p&gt;I didn’t plan it, but I miraculously ended up as a design researcher, where my &lt;em&gt;job&lt;/em&gt; was to think and write about design. The cherry on top was planning, writing for, and editing the &lt;a href=&quot;http://theuxnewsletter.com&quot;&gt;MailChimp UX Newsletter&lt;/a&gt;. I was writing (or thinking about what to write) nearly every day, and loving every minute of it.&lt;/p&gt;
+
+&lt;h2 id=&quot;an-outlet-for-output&quot;&gt;An Outlet for Output&lt;/h2&gt;
+&lt;p&gt;With the exception of some tweets here and there, and a whole lot of direct messages on Slack, I’ve lacked an outlet. As a result, my list of writing topics grew as my output dwindled.&lt;/p&gt;
+
+&lt;p&gt;Which brings me here: a new site that serves as an outlet. I tend to write about user experience, research, and the building of/collaboration among teams. Look for more of that, along with the occasional outlier topic.&lt;/p&gt;
+
+&lt;p&gt;I’m excited to share my thoughts here. If something resonates, please let me know and please share with others. This is going to be fun.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Jun 2016 05:25:11 -0400</pubDate>
+        <link>http://localhost:4000/2016/06/13/an_outlet.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/06/13/an_outlet.html</guid>
+        
         
       </item>
     
