@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Everything is Important
+title:  "Everything is Important"
 date:   2016-07-07 14:34:25
 description:
 categories:

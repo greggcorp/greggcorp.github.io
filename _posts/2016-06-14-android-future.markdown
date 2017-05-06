@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Android: Future Perfect, Present Fractured
+title:  "Android: Future Perfect, Present Fractured"
 date:   2016-06-14 14:34:25
 description:
 categories:

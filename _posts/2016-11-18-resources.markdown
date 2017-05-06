@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Resources
+title: "Research Resources"
 date:   2016-11-18 14:34:25
 description: My go-to books &amp; articles
 categories:

@@ -6,64 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 May 2017 14:39:20 -0400</pubDate>
-    <lastBuildDate>Sat, 06 May 2017 14:39:20 -0400</lastBuildDate>
+    <pubDate>Sat, 06 May 2017 14:42:37 -0400</pubDate>
+    <lastBuildDate>Sat, 06 May 2017 14:42:37 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;In 2003, Philip Morris, parent company of Philip Morris Tobacco and Kraft foods, rebranded itself. The goal of the rebrand was to, in name only, distance Philip Morris’s tobacco holdings from their other, less negatively perceived company properties (like Oreo Cookies and Miller Beer). Thus a new, nonsensical name for the parent company was announced: &lt;strong&gt;Altria&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Altria is a meaningless name, designed only to unify a disparate collection of entities and shield less desirable parts behind a nebulous whole.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/altria-share-logo.png&quot; alt=&quot;Like the name of the company, Altria's logo signifies nothing.&quot; title=&quot;Altria's Logo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Five years later, Google’s Android mobile platform launched. Since 2013, Android has ranked as the best-selling operating system on phones and tablets. And since 2013, the name Android has served a role similar to that of Altria: a loose collection of disparate experiences unified under an empty moniker.&lt;/p&gt;
-
-&lt;h2 id=&quot;embracing-androids-potential&quot;&gt;Embracing Android’s Potential&lt;/h2&gt;
-&lt;p&gt;In 2015, I switched from iOS to Android. My rationale for doing so was rooted in the realization that, though my phone came from Apple, the software I relied on most either came from Google or was operating-system agnostic (Evernote, Wunderlist, and Spotify, to name a few).&lt;/p&gt;
-
-&lt;p&gt;That realization, coupled with the promise of Google’s &lt;a href=&quot;https://material.google.com/&quot;&gt;Material Design&lt;/a&gt;, swayed me to make the leap. With Material Design, Google’s software shared a single visual language, and a beautiful one at that. When I envisioned the user experience of Material Design on Motorola’s Moto X phone—a strikingly gorgeous combination of bamboo and dark aluminum—I was sold.&lt;/p&gt;
-
-&lt;h2 id=&quot;unmet-expectations&quot;&gt;Unmet Expectations&lt;/h2&gt;
-&lt;p&gt;That leap to Android and Motorola, however, landed me on unsteady ground, and my excitement was short-lived. My new flagship phone shipped with an outdated and decidedly &lt;em&gt;not&lt;/em&gt; Material version of the Android operating system. To install the new version, Android Lollipop, I had to wait. Until when? Until Motorola released it for use on this specific phone model. Estimated ship date: eventually.&lt;/p&gt;
-
-&lt;p&gt;That first impression of the Android universe was underwhelming. I had seen Google’s vision for the future of Android, and this wasn’t it. This just sucked. Things continued to suck for nearly a month.&lt;/p&gt;
-
-&lt;p&gt;When Motorola finally released Android Lollipop for my phone, I was (belatedly) impressed. The interfaces and interactions felt intuitive. The animations were snappy. The notifications seemed useful. As more app developers embraced Google’s design standards, the ecosystem of beautiful apps began to rival that of iOS.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-cards=&quot;hidden&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Android at its best: podcast controls, weather, file upload, movie download. Simultaneous actions and a clear UI. 🏆 &lt;a href=&quot;https://t.co/lpHPG10P1p&quot;&gt;pic.twitter.com/lpHPG10P1p&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dan Kim (@dankim) &lt;a href=&quot;https://twitter.com/dankim/status/737460324031430657&quot;&gt;May 31, 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;And then Google announced the next version of their OS, Marshmallow, just a few months after I received Lollipop. Marshmallow’s new features looked &lt;a href=&quot;https://twitter.com/dankim/status/737460324031430657/photo/1&quot;&gt;truly useful&lt;/a&gt;, and I would &lt;em&gt;never get to experience them&lt;/em&gt;—Motorola announced that my phone would not receive an update to the new OS.&lt;/p&gt;
-
-&lt;h2 id=&quot;there-isnt-a-typical-android-experience&quot;&gt;There isn’t a &lt;em&gt;typical&lt;/em&gt; Android experience&lt;/h2&gt;
-&lt;p&gt;Over time, the performance of my phone diminished. The operating system lagged far behind my button pushes and swipes. Running certain apps decreased my battery life percentage in real time. And to remind me of the experience I wasn’t getting, the apps I used were updated to embrace OS features unavailable to me on my still-new phone.&lt;/p&gt;
-
-&lt;p&gt;This isn’t a problem unique to Motorola, but it’s a problem nonetheless. And it lands squarely at the feet of Google. &lt;strong&gt;There isn’t an &lt;em&gt;Android&lt;/em&gt; experience; only an empty brand name shielding a fractured and embarrassing collection of unique occurrences.&lt;/strong&gt; Altria beget Android. And Android is worse.&lt;/p&gt;
-
-&lt;h2 id=&quot;impossible-promises&quot;&gt;Impossible promises&lt;/h2&gt;
-&lt;p&gt;The difference between Altria and Android is that Philip Morris was honest about their intent to hide their less palatable brands from public view. Google promised a better experience through both their design system and their evolutionary operating system. But they also knew full well that they could &lt;em&gt;never deliver&lt;/em&gt; on those promises.&lt;/p&gt;
-
-&lt;p&gt;Android runs on countless devices from myriad manufacturers across many carriers. With so much variability in device configurations, Google allows each manufacturer to customize Android as needed. This helps Android achieve scale, but also explains how there can never be a universal Android experience.&lt;/p&gt;
-
-&lt;p&gt;Google pays lip service to this conundrum by &lt;a href=&quot;http://www.cnet.com/news/google-might-start-shaming-companies-that-take-too-long-to-update-their-android-phones/&quot;&gt;issuing weak threats to some of their manufacturing partners&lt;/a&gt;. But these are their partners they threaten—without these partners, Android doesn’t exist at all. Only Apple, by controlling both their hardware and software, can execute the definitive vision they proffer. Android only offers lesser and diminished versions of its promise.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/circles.png&quot; alt=&quot;Only Apple provides a cohesive user experience.&quot; title=&quot;A blob of an experience&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;attaining-a-universal-experience&quot;&gt;Attaining a universal experience&lt;/h2&gt;
-&lt;p&gt;Brands often make promises of varying degrees of emptiness, and Google proved no exception. But continuing to issue empty promises erodes trust, confidence, and—ultimately—the user experience.&lt;/p&gt;
-
-&lt;p&gt;After reaching my breaking point on my year-old Moto X running a deprecated Android OS, I charged up my 2012 iPhone 5 and started using it full-time. It runs the latest version of iOS. It receives regular updates. And short of some hardware features like TouchID and 3D Touch, it achieves the rich experience Apple promises to everyone.&lt;/p&gt;
-
-&lt;p&gt;Android is something different to everyone, but universal to no one. Android is Altria: a loose federation of disjointed parts.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 06 May 2017 14:39:20 -0400</pubDate>
-        <link>http://localhost:4000/2017/05/06/2016-06-14-android-future.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/05/06/2016-06-14-android-future.html</guid>
-        
-        
-      </item>
     
       <item>
         <title>UX Research Templates</title>
@@ -392,6 +337,61 @@ I want my colleagues to be aware of what I just learned, and who I learned it fr
         <pubDate>Mon, 20 Jun 2016 10:34:25 -0400</pubDate>
         <link>http://localhost:4000/2016/06/20/travel-pro.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/06/20/travel-pro.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Android: Future Perfect, Present Fractured</title>
+        <description>&lt;p&gt;In 2003, Philip Morris, parent company of Philip Morris Tobacco and Kraft foods, rebranded itself. The goal of the rebrand was to, in name only, distance Philip Morris’s tobacco holdings from their other, less negatively perceived company properties (like Oreo Cookies and Miller Beer). Thus a new, nonsensical name for the parent company was announced: &lt;strong&gt;Altria&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Altria is a meaningless name, designed only to unify a disparate collection of entities and shield less desirable parts behind a nebulous whole.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/altria-share-logo.png&quot; alt=&quot;Like the name of the company, Altria's logo signifies nothing.&quot; title=&quot;Altria's Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Five years later, Google’s Android mobile platform launched. Since 2013, Android has ranked as the best-selling operating system on phones and tablets. And since 2013, the name Android has served a role similar to that of Altria: a loose collection of disparate experiences unified under an empty moniker.&lt;/p&gt;
+
+&lt;h2 id=&quot;embracing-androids-potential&quot;&gt;Embracing Android’s Potential&lt;/h2&gt;
+&lt;p&gt;In 2015, I switched from iOS to Android. My rationale for doing so was rooted in the realization that, though my phone came from Apple, the software I relied on most either came from Google or was operating-system agnostic (Evernote, Wunderlist, and Spotify, to name a few).&lt;/p&gt;
+
+&lt;p&gt;That realization, coupled with the promise of Google’s &lt;a href=&quot;https://material.google.com/&quot;&gt;Material Design&lt;/a&gt;, swayed me to make the leap. With Material Design, Google’s software shared a single visual language, and a beautiful one at that. When I envisioned the user experience of Material Design on Motorola’s Moto X phone—a strikingly gorgeous combination of bamboo and dark aluminum—I was sold.&lt;/p&gt;
+
+&lt;h2 id=&quot;unmet-expectations&quot;&gt;Unmet Expectations&lt;/h2&gt;
+&lt;p&gt;That leap to Android and Motorola, however, landed me on unsteady ground, and my excitement was short-lived. My new flagship phone shipped with an outdated and decidedly &lt;em&gt;not&lt;/em&gt; Material version of the Android operating system. To install the new version, Android Lollipop, I had to wait. Until when? Until Motorola released it for use on this specific phone model. Estimated ship date: eventually.&lt;/p&gt;
+
+&lt;p&gt;That first impression of the Android universe was underwhelming. I had seen Google’s vision for the future of Android, and this wasn’t it. This just sucked. Things continued to suck for nearly a month.&lt;/p&gt;
+
+&lt;p&gt;When Motorola finally released Android Lollipop for my phone, I was (belatedly) impressed. The interfaces and interactions felt intuitive. The animations were snappy. The notifications seemed useful. As more app developers embraced Google’s design standards, the ecosystem of beautiful apps began to rival that of iOS.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-cards=&quot;hidden&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Android at its best: podcast controls, weather, file upload, movie download. Simultaneous actions and a clear UI. 🏆 &lt;a href=&quot;https://t.co/lpHPG10P1p&quot;&gt;pic.twitter.com/lpHPG10P1p&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dan Kim (@dankim) &lt;a href=&quot;https://twitter.com/dankim/status/737460324031430657&quot;&gt;May 31, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;And then Google announced the next version of their OS, Marshmallow, just a few months after I received Lollipop. Marshmallow’s new features looked &lt;a href=&quot;https://twitter.com/dankim/status/737460324031430657/photo/1&quot;&gt;truly useful&lt;/a&gt;, and I would &lt;em&gt;never get to experience them&lt;/em&gt;—Motorola announced that my phone would not receive an update to the new OS.&lt;/p&gt;
+
+&lt;h2 id=&quot;there-isnt-a-typical-android-experience&quot;&gt;There isn’t a &lt;em&gt;typical&lt;/em&gt; Android experience&lt;/h2&gt;
+&lt;p&gt;Over time, the performance of my phone diminished. The operating system lagged far behind my button pushes and swipes. Running certain apps decreased my battery life percentage in real time. And to remind me of the experience I wasn’t getting, the apps I used were updated to embrace OS features unavailable to me on my still-new phone.&lt;/p&gt;
+
+&lt;p&gt;This isn’t a problem unique to Motorola, but it’s a problem nonetheless. And it lands squarely at the feet of Google. &lt;strong&gt;There isn’t an &lt;em&gt;Android&lt;/em&gt; experience; only an empty brand name shielding a fractured and embarrassing collection of unique occurrences.&lt;/strong&gt; Altria beget Android. And Android is worse.&lt;/p&gt;
+
+&lt;h2 id=&quot;impossible-promises&quot;&gt;Impossible promises&lt;/h2&gt;
+&lt;p&gt;The difference between Altria and Android is that Philip Morris was honest about their intent to hide their less palatable brands from public view. Google promised a better experience through both their design system and their evolutionary operating system. But they also knew full well that they could &lt;em&gt;never deliver&lt;/em&gt; on those promises.&lt;/p&gt;
+
+&lt;p&gt;Android runs on countless devices from myriad manufacturers across many carriers. With so much variability in device configurations, Google allows each manufacturer to customize Android as needed. This helps Android achieve scale, but also explains how there can never be a universal Android experience.&lt;/p&gt;
+
+&lt;p&gt;Google pays lip service to this conundrum by &lt;a href=&quot;http://www.cnet.com/news/google-might-start-shaming-companies-that-take-too-long-to-update-their-android-phones/&quot;&gt;issuing weak threats to some of their manufacturing partners&lt;/a&gt;. But these are their partners they threaten—without these partners, Android doesn’t exist at all. Only Apple, by controlling both their hardware and software, can execute the definitive vision they proffer. Android only offers lesser and diminished versions of its promise.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/circles.png&quot; alt=&quot;Only Apple provides a cohesive user experience.&quot; title=&quot;A blob of an experience&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;attaining-a-universal-experience&quot;&gt;Attaining a universal experience&lt;/h2&gt;
+&lt;p&gt;Brands often make promises of varying degrees of emptiness, and Google proved no exception. But continuing to issue empty promises erodes trust, confidence, and—ultimately—the user experience.&lt;/p&gt;
+
+&lt;p&gt;After reaching my breaking point on my year-old Moto X running a deprecated Android OS, I charged up my 2012 iPhone 5 and started using it full-time. It runs the latest version of iOS. It receives regular updates. And short of some hardware features like TouchID and 3D Touch, it achieves the rich experience Apple promises to everyone.&lt;/p&gt;
+
+&lt;p&gt;Android is something different to everyone, but universal to no one. Android is Altria: a loose federation of disjointed parts.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Jun 2016 10:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2016/06/14/android-future.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/06/14/android-future.html</guid>
         
         
       </item>

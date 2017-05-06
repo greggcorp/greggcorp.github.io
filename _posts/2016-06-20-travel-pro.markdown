@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Travel Pro
+title:  "Travel Pro"
 date:   2016-06-20 14:34:25
 description: Lessons learned over many miles
 categories:

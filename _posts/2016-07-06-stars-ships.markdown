@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Stars, Ships, and Expectations
+title:  "Stars, Ships, and Expectations"
 date:   2016-07-06 14:34:25
 description:
 categories:

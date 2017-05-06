@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Research Templates
+title: "UX Research Templates"
 date:   2017-04-25 11:34:25
 description: How I share findings with my org
 categories:
