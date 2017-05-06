@@ -11,7 +11,7 @@ email: me@gregg.io
 name: 'Gregg Bernstein'
 author: 'Gregg Bernstein'
 description: > # this means to ignore newlines until "baseurl:"
-  User & Product Researcher // Writer & Editor // Speaker
+  User &amp; Product Researcher &bull; Writer &amp; Editor &bull; Speaker &amp; Educator
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gregg.io" # the base hostname & protocol for your site
 twitter_username: greggcorp

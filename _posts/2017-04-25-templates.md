@@ -2,7 +2,7 @@
 layout: post
 title: UX Research Templates
 date:   2017-04-25 11:34:25
-description:
+description: How I share findings with my org
 categories:
 ---
 On the Vox Product blog, I wrote about how I create an [ambient awareness of user and product research](https://product.voxmedia.com/2017/4/19/15309792/ambient-ux-research) across my product team by sharing everything, everywhere—repeatedly and redundantly.
