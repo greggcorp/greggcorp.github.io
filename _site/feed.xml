@@ -6,25 +6,23 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 May 2017 18:40:32 -0400</pubDate>
-    <lastBuildDate>Sun, 28 May 2017 18:40:32 -0400</lastBuildDate>
+    <pubDate>Mon, 29 May 2017 22:18:13 -0400</pubDate>
+    <lastBuildDate>Mon, 29 May 2017 22:18:13 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
-        <title>The Field Test &amp;amp; Ambient Research</title>
-        <description>&lt;p&gt;Some writing updates:&lt;/p&gt;
-
-&lt;h3 id=&quot;the-field-study-handbook&quot;&gt;The Field Study Handbook&lt;/h3&gt;
-&lt;p&gt;My friend &lt;a href=&quot;http://www.studiodradiodurans.com/&quot;&gt;Jan Chipchase&lt;/a&gt; is an authority on qualitative product research. He embeds himself in the field with a team of colleagues and fixers, capturing the context and ecosystems in which people live. He’s the type of researcher I want to be when I grow up—traveling to the far corners of the earth to uncover hidden truths and potential opportunities.&lt;/p&gt;
+        <title>The Field Test</title>
+        <description>&lt;p&gt;My friend &lt;a href=&quot;http://www.studiodradiodurans.com/&quot;&gt;Jan Chipchase&lt;/a&gt; is an authority on qualitative product research. He embeds himself in the field with a team of colleagues and fixers, capturing the context and ecosystems in which people live. He’s the type of researcher I want to be when I grow up—traveling to the far corners of the earth to uncover hidden truths and potential opportunities.&lt;/p&gt;
 
 &lt;p&gt;Jan’s taken his experiences and created the &lt;a href=&quot;http://www.kickstarter.com/projects/janchipchase/the-field-study-handbook&quot;&gt;Field Study Handbook&lt;/a&gt;. It was a career highlight to work with Jan as a technical reviewer on a few chapters of the handbook, and I’m excited for the book’s release in June, 2017.&lt;/p&gt;
 
-&lt;p&gt;As we get closer to the book’s launch, I contributed a short piece about what you learn about a product research team in the field. Check out &lt;a href=&quot;https://medium.com/the-field-study-handbook/the-field-test-5a243e71ff35&quot;&gt;The Field Test&lt;/a&gt; on Medium.&lt;/p&gt;
+&lt;p&gt;As we get closer to the book’s launch, I contributed a short piece about what you learn about a product research team in the field.&lt;/p&gt;
 
-&lt;h3 id=&quot;ambient-research&quot;&gt;Ambient Research&lt;/h3&gt;
-&lt;p&gt;Last month on the Vox Product blog, I wrote about how I create an &lt;a href=&quot;https://product.voxmedia.com/2017/4/19/15309792/ambient-ux-research&quot;&gt;ambient awareness of user and product research&lt;/a&gt; across my product team by sharing everything, everywhere—repeatedly and redundantly.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The field, though, is opportunity. Exiting the office and entering the field introduces novelty, variety, and a chance for adaptation.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;It’s clear to me that sharing findings in a way that makes them discoverable and teachable across an organization is the biggest challenge research teams face. Expect more thoughts on containing research in upcoming posts.&lt;/p&gt;
+&lt;p&gt;Check out &lt;a href=&quot;https://medium.com/the-field-study-handbook/the-field-test-5a243e71ff35&quot;&gt;The Field Test&lt;/a&gt; on Medium.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 May 2017 07:34:25 -0400</pubDate>
         <link>http://localhost:4000/2017/05/28/field.html</link>
@@ -69,6 +67,42 @@ I want my colleagues to be aware of what I just learned, and who I learned it fr
         <pubDate>Tue, 25 Apr 2017 07:34:25 -0400</pubDate>
         <link>http://localhost:4000/2017/04/25/templates.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/04/25/templates.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ambient Research</title>
+        <description>&lt;p&gt;On the Vox Product blog, I describe how I create an &lt;a href=&quot;https://product.voxmedia.com/2017/4/19/15309792/ambient-ux-research&quot;&gt;ambient awareness of user and product research&lt;/a&gt; across my product team by sharing everything, everywhere—repeatedly and redundantly.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By showing my work everywhere and often, my colleagues see that research isn’t a “when we have the time” activity—it’s habitual and ongoing. Ideally, every project should bake in research.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s clear to me that sharing findings in a way that makes them discoverable and teachable across an organization is the biggest challenge research teams face. Expect more thoughts on containing research in upcoming posts.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://product.voxmedia.com/2017/4/19/15309792/ambient-ux-research&quot;&gt;Read the entire post on the Vox Product blog&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Apr 2017 07:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2017/04/19/ambient.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/19/ambient.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Capture the Context</title>
+        <description>&lt;p&gt;On the Optimal Workshop blog, I explain that there’s so much more to interviews than asking and answering in &lt;a href=&quot;http://blog.optimalworkshop.com/capture-the-context-pro-tips-for-user-interviews&quot;&gt;Capture the Context&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Stories convey so much. The best stories contain enough rich, lived-in detail to elicit understanding and empathy. These contextual details flesh out words and actions, anchoring the story in place and time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.optimalworkshop.com/capture-the-context-pro-tips-for-user-interviews&quot;&gt;Read the entire post on the Optimal Workshop blog&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Jan 2017 06:34:25 -0500</pubDate>
+        <link>http://localhost:4000/2017/01/30/capture.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/01/30/capture.html</guid>
         
         
       </item>
@@ -135,6 +169,25 @@ I want my colleagues to be aware of what I just learned, and who I learned it fr
         <pubDate>Fri, 18 Nov 2016 09:34:25 -0500</pubDate>
         <link>http://localhost:4000/2016/11/18/resources.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/11/18/resources.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Before You Even Open Your Mouth</title>
+        <description>&lt;p&gt;For Optimal Workshop’s ebook &lt;em&gt;How to conduct great user interviews&lt;/em&gt; I contributed a chapter on reading the wider environment around your research focus.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The sights and sounds you capture add color, depth, and detail to your interview, which can be used to e ectively design and market the right products to the right audience. It’s a practice that top companies like &lt;a href=&quot;http://fortune.com/ikea-world-domination/&quot;&gt;Ikea&lt;/a&gt; and &lt;a href=&quot;https://www.fastcompany.com/3040223/when-it-clicks-it-clicks&quot;&gt;Lego&lt;/a&gt; perform to great success; both companies have incorporated home visits and observations into their respective research arsenals to refine their product lines and how they display said products.&lt;/p&gt;
+
+  &lt;p&gt;By observing and documenting everything, you’re able to flesh out the interview with all-important details that ground your findings in context.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://go.optimalworkshop.com/ebook/how-to-conduct-great-user-interviews&quot;&gt;Download the ebook&lt;/a&gt; to read my chapter, &lt;em&gt;Before you even open your mouth&lt;/em&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 16 Oct 2016 07:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2016/10/16/mouth.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/10/16/mouth.html</guid>
         
         
       </item>
@@ -245,200 +298,6 @@ I want my colleagues to be aware of what I just learned, and who I learned it fr
         <pubDate>Wed, 06 Jul 2016 10:34:25 -0400</pubDate>
         <link>http://localhost:4000/2016/07/06/stars-ships.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/07/06/stars-ships.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Travel Pro</title>
-        <description>&lt;p&gt;I’ve traveled a fair bit over the past few years for &lt;a href=&quot;http://mailchimp.com/2015/#miles-traveled-for-product-and-customer-research&quot;&gt;research projects&lt;/a&gt; and to speak at conferences. I strive for something akin to minimalism when packing, though not to the degree that I go without a few creature comforts.&lt;/p&gt;
-
-&lt;p&gt;After reading the best practices and pro-tips from sites like &lt;a href=&quot;http://www.carryology.com/&quot;&gt;Carryology&lt;/a&gt;, &lt;a href=&quot;http://blog.tortugabackpacks.com/&quot;&gt;Packsmith&lt;/a&gt;, &lt;a href=&quot;http://snarkynomad.com/&quot;&gt;Snarky Nomad&lt;/a&gt;, and &lt;a href=&quot;http://thewirecutter.com/reviews/travel-guide/&quot;&gt;The Wirecutter&lt;/a&gt;, I thought it would be both useful and fun to create my own “business traveler” gear and apparel packing list.&lt;/p&gt;
-
-&lt;p&gt;Before we get to the list, I have two gear and packing guidelines:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Spend more now to save more later&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I invest in durability, comfort, and features. Yes, this comes at a price, but good apparel and gear will last eons.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Plan with abandon; pack with restraint&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Really, really think about your schedule, and pack accordingly, not aspirationally. It’s easier to buy one new item on the road than it is to lug ten items you don’t need. From my friend &lt;a href=&quot;http://blog.seanbonner.com/2013/01/08/baggage/&quot;&gt;Sean’s blog&lt;/a&gt;, I picked up the mental exercise that &lt;em&gt;I must forfeit any clothing I pack but don’t use&lt;/em&gt;. That simple mindset keeps me honest when packing.&lt;/p&gt;
-
-&lt;h2 id=&quot;luggage&quot;&gt;Luggage&lt;/h2&gt;
-&lt;p&gt;I don’t check my luggage for business travel, and neither should you. I stick to two bags, max: a rollerboard and a backpack. Between both, I can pack clothing and gear for days upon days of travel.&lt;/p&gt;
-
-&lt;h3 id=&quot;rolling-carry-on&quot;&gt;Rolling Carry-on&lt;/h3&gt;
-&lt;p&gt;I use a &lt;a href=&quot;https://www.amazon.com/gp/product/B00PX0QJDY/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Delsey 19” suitcase&lt;/a&gt; that I carry aboard with me. It’s small enough to fit into the overhead bins of every major domestic and international airline. It also features a polycarbonate shell, which both helps to keep its shape (no need to stuff it into the overhead bin) and protects my goods (which can include a laptop or Kindle).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/delsey.jpg&quot; alt=&quot;The Delsey Helium suitcase.&quot; title=&quot;Delsey suitcase image&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;backpack&quot;&gt;Backpack&lt;/h3&gt;
-&lt;p&gt;After ample user testing, I settled on the &lt;a href=&quot;http://www.timbuk2.com/command-tsa-friendly-laptop-backpack/392.html&quot;&gt;Timbuk2 Command backpack&lt;/a&gt;. It’s not the platonic ideal of backpacks, but it hits a lot of my checkmarks: expandable, TSA compliant, protective, and understated. If I had to do it again, I’d go with the &lt;a href=&quot;http://missionworkshop.com/products/bags/backpacks/rucksack/sanction.php&quot;&gt;Mission Workshop Sanction&lt;/a&gt;, but the Command is holding up nicely after two years being shoved under airplane seats and thrown into cabs. Every couple of months I spray it with Scotchgard as an added layer of protection.
-&lt;img src=&quot;/assets/images/command.jpg&quot; alt=&quot;The Timbuk2 Command backpack.&quot; title=&quot;Timbuk2 backpack image&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;organization&quot;&gt;Organization&lt;/h2&gt;
-
-&lt;h3 id=&quot;packing-cubes&quot;&gt;Packing Cubes&lt;/h3&gt;
-&lt;p&gt;I employ a mix of both &lt;a href=&quot;https://www.amazon.com/dp/B00BYFC4Z4/ref=twister_B00F9T852C?_encoding=UTF8&amp;amp;psc=1&quot;&gt;Eagle Creek compression&lt;/a&gt; and &lt;a href=&quot;http://www.ebags.com/product/ebags/packing-cubes-3pc-set/13032&quot;&gt;eBags standard&lt;/a&gt; packing cubes. I resisted these for so long, but they make a world of difference for both organization and fitting everything into my bag.&lt;/p&gt;
-
-&lt;h3 id=&quot;compression-sack&quot;&gt;Compression Sack&lt;/h3&gt;
-&lt;p&gt;I hand-wash my clothes at the hotel, but eventually things get dirty. That’s where the &lt;a href=&quot;https://www.amazon.com/Outdoor-Research-Ultralight-Z-Compression-8-Liter/dp/B00ATNI5X2?ie=UTF8&amp;amp;ascsubtag=WC82781&amp;amp;linkCode=xm2&amp;amp;tag=thewire06-20&quot;&gt;Outdoor Research Ultralight Z-Compression Sack&lt;/a&gt; comes in handy. I picked this up after reading about it on the Wirecutter. It’s great for taking a couple of day’s worth of clothes and compressing them down to the size of a coffee mug.&lt;/p&gt;
-
-&lt;h3 id=&quot;pocket-organizers&quot;&gt;Pocket Organizers&lt;/h3&gt;
-&lt;p&gt;To keep organized in my backpack, I use two Maxpedition cases—the smaller &lt;a href=&quot;https://www.amazon.com/gp/product/B005CSYVSW/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Micro&lt;/a&gt; for charging cords and adapters, and the larger &lt;a href=&quot;https://www.amazon.com/gp/product/B00AQ6E5XQ/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Beefy&lt;/a&gt; for:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Power supplies and a surge protector&lt;/li&gt;
-  &lt;li&gt;Ethernet cable and adapter&lt;/li&gt;
-  &lt;li&gt;HDMI adapter&lt;/li&gt;
-  &lt;li&gt;Homemade first aid kit/sewing kit&lt;/li&gt;
-  &lt;li&gt;Eyeglass repair kit&lt;/li&gt;
-  &lt;li&gt;Kensington presentation remote&lt;/li&gt;
-  &lt;li&gt;A &lt;a href=&quot;https://www.amazon.com/MSR-6908-Spork-Red/dp/B00A9A2BJE/ref=pd_sim_sbs_468_4?ie=UTF8&amp;amp;dpID=31-6z52IqDL&amp;amp;dpSrc=sims&amp;amp;preST=_AC_UL480_SR468%2C480_&amp;amp;psc=1&amp;amp;refRID=SGEQK2DTF1YW7Y8MBKCM&quot;&gt;travel spork&lt;/a&gt;. (I highly recommend this—there will come a late-night meal in your hotel room when you’re tired, half-dressed, and lacking a utensil. When that time comes, this will be your moment of glory.)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/spork.jpg&quot; alt=&quot;The mighty travel spork&quot; title=&quot;Spork image&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;tech&quot;&gt;Tech&lt;/h2&gt;
-&lt;p&gt;I work as a UX researcher, which means I often travel with the intention of capturing moments and mutterings. I’ve used a variety of devices over the years, but here’s my current set-up:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;MacBook Pro 13”: Powerful, lightweight, and gorgeous.&lt;/li&gt;
-  &lt;li&gt;Kindle Paperwhite. Why bring a book when you can bring the library? And speaking of libraries, you can download classics (like most of the Sherlock Holmes books) from &lt;a href=&quot;https://www.gutenberg.org/wiki/Free_Kindle_Books&quot;&gt;Project Gutenberg&lt;/a&gt; for free.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Zoom-H2N-H2n-Handy-Recorder/dp/B005CQ2ZY6/ref=sr_1_1?s=sporting-goods&amp;amp;ie=UTF8&amp;amp;qid=1466560732&amp;amp;sr=8-1&amp;amp;keywords=zoom+h2n&quot;&gt;Zoom H2N&lt;/a&gt; audio recorder, because everyone misses something during an interview.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;apparel&quot;&gt;Apparel&lt;/h2&gt;
-&lt;p&gt;Some apparel rules of thumb:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Any visible article of clothing must be wearable with any other visible article. In a nutshell, everything works with everything. I stick to black shoes, navy or black pants, and simple check or plaid patterns to ensure that no matter what I put on, the combination will look professional (and dope).&lt;/li&gt;
-  &lt;li&gt;I only pack hand-washable, quick-drying, wrinkle-resistant clothing. I don’t iron, and I want to be able to wash and dry my clothes in my hotel bathroom.&lt;/li&gt;
-  &lt;li&gt;I pack four changes of clothes, max, plus one set of whatever I need for a run or the gym. With what I wear on the plane, that’s three changes of clothes in my suitcase. Once I’m at my destination, I have something I’m wearing, something hanging to dry in the hotel shower, and two changes of clothes at the ready.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;shoes&quot;&gt;Shoes&lt;/h3&gt;
-&lt;p&gt;Shoes make or break a trip. The right pair is flexible enough to work for meetings, socializing, and exploring. They need to work in all climates and conditions and still provide comfort.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://static.beyondtherack.com/productimages/TRE47236013/large/TRE47236013_1.jpg&quot;&gt;Tretorn Skymra&lt;/a&gt; (black on black): These are &lt;em&gt;the&lt;/em&gt; shoes. They’re Gore-Tex, waterproof, comfortable, and stylish. I wear these on the plane, through the city, to meetings, and to the bar for a cocktail. They go in and out of stock, hence the lack of a link. But if you find them, pounce.
-&lt;img src=&quot;/assets/images/tretorns.jpg&quot; alt=&quot;Tretorn Skymras = Footwear Happiness.&quot; title=&quot;Tretorn shoes image&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Dr. Martens &lt;a href=&quot;https://www.amazon.com/gp/product/B005M8VR84/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Alfie boot&lt;/a&gt; or &lt;a href=&quot;https://www.amazon.com/gp/product/B005UWI5U0/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Callum shoe&lt;/a&gt;. These canvas shoes are perfect for dry climates and lots of walking, and they’re super durable and comfortable. Note that they’re not waterproof. I sprayed mine with Scotchgard, which worked in a light mist but failed in a storm.
-&lt;img src=&quot;/assets/images/alfie.jpg&quot; alt=&quot;Dr. Martens Alfie boot&quot; title=&quot;Alfie boots image&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;clothing&quot;&gt;Clothing&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.uniqlo.com/content/uniqlo/us/en/men/dress-shirts/easy-care-slim-fit-stretch.html&quot;&gt;Uniqlo Easy Care Slim Fit&lt;/a&gt; dress shirts: no wrinkles, no worries.&lt;/li&gt;
-  &lt;li&gt;Dickie’s &lt;a href=&quot;https://www.amazon.com/gp/product/B00B6E4RVW/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Slim Skinny&lt;/a&gt; work pants: Don’t judge by the brand name—these are tough as nails, stain-resistant, and fit like a glove. They’re also dirt cheap.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.uniqlo.com/us/search.html?q=airism%20boxer&quot;&gt;Uniqlo Airism&lt;/a&gt; boxers: lightweight, durable, hand-washable, fast-drying, perfect.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://darntough.com/&quot;&gt;Darn Tough Socks&lt;/a&gt;: Merino wool is both odor-resistant and quick to dry, which is really all you need in a sock, right? Not to mention, they’re guaranteed for life.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.uniqlo.com/us/product/men-packaged-dry-crew-neck-short-sleeve-t-shirt-138665.html#08-003&quot;&gt;Uniqlo Short-Sleeve tee&lt;/a&gt;: The cotton-poly blend is both comfortable and quick to dry.&lt;/li&gt;
-  &lt;li&gt;I also pack one or two white cotton-poly undershirts (for meetings), track pants/shorts (for pajamas/lounging), and one running combo (shorts/tights, shirt, shoes). I’m steadfast in using my running shoes only for running, which means I pack two pairs of shoes on all trips.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;outer-layers&quot;&gt;Outer Layers&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.patagonia.com/us/product/mens-nano-puff-jacket?p=84211-1&quot;&gt;Patagonia Nano Puff Jacket&lt;/a&gt;: This is the lightest-weight, warmest, most packable jacket I’ve ever worn. The jacket stuffs into its chest pocket, making it eminently packable.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/patagonia.jpg&quot; alt=&quot;The Patagonia Nano Puff jacket.&quot; title=&quot;Patagonia jacket image&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Other things I pack, depending on the trip: a Merino cardigan or Uniqlo travel blazer for layering over my tee or dress shirt, a Merino beanie for cold environments, and a packable rain shell.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;odds-and-ends&quot;&gt;Odds and Ends&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/pelican.jpg&quot; alt=&quot;The Pelican Micro Case.&quot; title=&quot;Pelican case image&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B0015UC17E/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;Streamlight LED flashlight&lt;/a&gt;: The power will go out. That beach will be fun to walk on late at night. That alley is dark. You’ll find a reason.&lt;/li&gt;
-  &lt;li&gt;A sharpie, a &lt;a href=&quot;https://www.amazon.com/gp/product/B0014KMDZ0/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;travel screwdriver&lt;/a&gt;, a notebook, and an &lt;a href=&quot;https://www.amazon.com/gp/product/B003AACADM/ref=oh_aui_search_detailpage?ie=UTF8&amp;amp;psc=1&quot;&gt;indestructible pen&lt;/a&gt;. Just have these on hand—you’ll use them all.&lt;/li&gt;
-  &lt;li&gt;If you wear eyeglasses, always pack a spare. I keep mine in a &lt;a href=&quot;https://www.amazon.com/gp/product/B001TOLRC6/ref=oh_aui_detailpage_o01_s01?ie=UTF8&amp;amp;psc=1&quot;&gt;Pelican Micro Case&lt;/a&gt;, which is crush-proof.&lt;/li&gt;
-  &lt;li&gt;For toiletries, I use the &lt;a href=&quot;http://shop.eaglecreek.com/packit-specter-quick-trip/d/1245_cl_1884&quot;&gt;Eagle Creek Specter&lt;/a&gt;. It’s small, but holds the essentials.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 20 Jun 2016 10:34:25 -0400</pubDate>
-        <link>http://localhost:4000/2016/06/20/travel-pro.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/06/20/travel-pro.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Android: Future Perfect, Present Fractured</title>
-        <description>&lt;p&gt;In 2003, Philip Morris, parent company of Philip Morris Tobacco and Kraft foods, rebranded itself. The goal of the rebrand was to, in name only, distance Philip Morris’s tobacco holdings from their other, less negatively perceived company properties (like Oreo Cookies and Miller Beer). Thus a new, nonsensical name for the parent company was announced: &lt;strong&gt;Altria&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Altria is a meaningless name, designed only to unify a disparate collection of entities and shield less desirable parts behind a nebulous whole.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/altria-share-logo.png&quot; alt=&quot;Like the name of the company, Altria's logo signifies nothing.&quot; title=&quot;Altria's Logo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Five years later, Google’s Android mobile platform launched. Since 2013, Android has ranked as the best-selling operating system on phones and tablets. And since 2013, the name Android has served a role similar to that of Altria: a loose collection of disparate experiences unified under an empty moniker.&lt;/p&gt;
-
-&lt;h2 id=&quot;embracing-androids-potential&quot;&gt;Embracing Android’s Potential&lt;/h2&gt;
-&lt;p&gt;In 2015, I switched from iOS to Android. My rationale for doing so was rooted in the realization that, though my phone came from Apple, the software I relied on most either came from Google or was operating-system agnostic (Evernote, Wunderlist, and Spotify, to name a few).&lt;/p&gt;
-
-&lt;p&gt;That realization, coupled with the promise of Google’s &lt;a href=&quot;https://material.google.com/&quot;&gt;Material Design&lt;/a&gt;, swayed me to make the leap. With Material Design, Google’s software shared a single visual language, and a beautiful one at that. When I envisioned the user experience of Material Design on Motorola’s Moto X phone—a strikingly gorgeous combination of bamboo and dark aluminum—I was sold.&lt;/p&gt;
-
-&lt;h2 id=&quot;unmet-expectations&quot;&gt;Unmet Expectations&lt;/h2&gt;
-&lt;p&gt;That leap to Android and Motorola, however, landed me on unsteady ground, and my excitement was short-lived. My new flagship phone shipped with an outdated and decidedly &lt;em&gt;not&lt;/em&gt; Material version of the Android operating system. To install the new version, Android Lollipop, I had to wait. Until when? Until Motorola released it for use on this specific phone model. Estimated ship date: eventually.&lt;/p&gt;
-
-&lt;p&gt;That first impression of the Android universe was underwhelming. I had seen Google’s vision for the future of Android, and this wasn’t it. This just sucked. Things continued to suck for nearly a month.&lt;/p&gt;
-
-&lt;p&gt;When Motorola finally released Android Lollipop for my phone, I was (belatedly) impressed. The interfaces and interactions felt intuitive. The animations were snappy. The notifications seemed useful. As more app developers embraced Google’s design standards, the ecosystem of beautiful apps began to rival that of iOS.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-cards=&quot;hidden&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Android at its best: podcast controls, weather, file upload, movie download. Simultaneous actions and a clear UI. 🏆 &lt;a href=&quot;https://t.co/lpHPG10P1p&quot;&gt;pic.twitter.com/lpHPG10P1p&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dan Kim (@dankim) &lt;a href=&quot;https://twitter.com/dankim/status/737460324031430657&quot;&gt;May 31, 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;And then Google announced the next version of their OS, Marshmallow, just a few months after I received Lollipop. Marshmallow’s new features looked &lt;a href=&quot;https://twitter.com/dankim/status/737460324031430657/photo/1&quot;&gt;truly useful&lt;/a&gt;, and I would &lt;em&gt;never get to experience them&lt;/em&gt;—Motorola announced that my phone would not receive an update to the new OS.&lt;/p&gt;
-
-&lt;h2 id=&quot;there-isnt-a-typical-android-experience&quot;&gt;There isn’t a &lt;em&gt;typical&lt;/em&gt; Android experience&lt;/h2&gt;
-&lt;p&gt;Over time, the performance of my phone diminished. The operating system lagged far behind my button pushes and swipes. Running certain apps decreased my battery life percentage in real time. And to remind me of the experience I wasn’t getting, the apps I used were updated to embrace OS features unavailable to me on my still-new phone.&lt;/p&gt;
-
-&lt;p&gt;This isn’t a problem unique to Motorola, but it’s a problem nonetheless. And it lands squarely at the feet of Google. &lt;strong&gt;There isn’t an &lt;em&gt;Android&lt;/em&gt; experience; only an empty brand name shielding a fractured and embarrassing collection of unique occurrences.&lt;/strong&gt; Altria beget Android. And Android is worse.&lt;/p&gt;
-
-&lt;h2 id=&quot;impossible-promises&quot;&gt;Impossible promises&lt;/h2&gt;
-&lt;p&gt;The difference between Altria and Android is that Philip Morris was honest about their intent to hide their less palatable brands from public view. Google promised a better experience through both their design system and their evolutionary operating system. But they also knew full well that they could &lt;em&gt;never deliver&lt;/em&gt; on those promises.&lt;/p&gt;
-
-&lt;p&gt;Android runs on countless devices from myriad manufacturers across many carriers. With so much variability in device configurations, Google allows each manufacturer to customize Android as needed. This helps Android achieve scale, but also explains how there can never be a universal Android experience.&lt;/p&gt;
-
-&lt;p&gt;Google pays lip service to this conundrum by &lt;a href=&quot;http://www.cnet.com/news/google-might-start-shaming-companies-that-take-too-long-to-update-their-android-phones/&quot;&gt;issuing weak threats to some of their manufacturing partners&lt;/a&gt;. But these are their partners they threaten—without these partners, Android doesn’t exist at all. Only Apple, by controlling both their hardware and software, can execute the definitive vision they proffer. Android only offers lesser and diminished versions of its promise.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/circles.png&quot; alt=&quot;Only Apple provides a cohesive user experience.&quot; title=&quot;A blob of an experience&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;attaining-a-universal-experience&quot;&gt;Attaining a universal experience&lt;/h2&gt;
-&lt;p&gt;Brands often make promises of varying degrees of emptiness, and Google proved no exception. But continuing to issue empty promises erodes trust, confidence, and—ultimately—the user experience.&lt;/p&gt;
-
-&lt;p&gt;After reaching my breaking point on my year-old Moto X running a deprecated Android OS, I charged up my 2012 iPhone 5 and started using it full-time. It runs the latest version of iOS. It receives regular updates. And short of some hardware features like TouchID and 3D Touch, it achieves the rich experience Apple promises to everyone.&lt;/p&gt;
-
-&lt;p&gt;Android is something different to everyone, but universal to no one. Android is Altria: a loose federation of disjointed parts.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 14 Jun 2016 10:34:25 -0400</pubDate>
-        <link>http://localhost:4000/2016/06/14/android-future.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/06/14/android-future.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>An Outlet for Output</title>
-        <description>&lt;p&gt;As a designer, I used to obsess over the emails I sent to clients about projects. Most contained a clear thesis statement about my design objectives. And an outline of how I planned to approach image and type. Sometimes I included a breakdown of the production schedule. I’d re-read these emails long after hitting ‘send’ just to see what made sense and where I needed to improve.&lt;/p&gt;
-
-&lt;p&gt;In hindsight it’s clear that I didn’t love design; I loved the writing process. And writing &lt;em&gt;about&lt;/em&gt; design and process. And thinking over design problems and potential solutions. I loved getting things out of my head and into a medium where others could clearly understand me.&lt;/p&gt;
-
-&lt;p&gt;After a decade of designing for clients, I taught design for college students. I spent an inordinate amount of time writing lecture and project outlines, and providing lengthy replies to emails about design assignments. Then I went to grad school to “master” design with the intention of teaching for a living, and, yep… more writing—long design criticisms, links to interesting articles, feedback for classmates about their projects, and a thesis heavier on words than design.&lt;/p&gt;
-
-&lt;p&gt;I didn’t plan it, but I miraculously ended up as a design researcher, where my &lt;em&gt;job&lt;/em&gt; was to think and write about design. The cherry on top was planning, writing for, and editing the &lt;a href=&quot;http://theuxnewsletter.com&quot;&gt;MailChimp UX Newsletter&lt;/a&gt;. I was writing (or thinking about what to write) nearly every day, and loving every minute of it.&lt;/p&gt;
-
-&lt;h2 id=&quot;an-outlet-for-output&quot;&gt;An Outlet for Output&lt;/h2&gt;
-&lt;p&gt;With the exception of some tweets here and there, and a whole lot of direct messages on Slack, I’ve lacked an outlet. As a result, my list of writing topics grew as my output dwindled.&lt;/p&gt;
-
-&lt;p&gt;Which brings me here: a new site that serves as an outlet. I tend to write about user experience, research, and the building of/collaboration among teams. Look for more of that, along with the occasional outlier topic.&lt;/p&gt;
-
-&lt;p&gt;I’m excited to share my thoughts here. If something resonates, please let me know and please share with others. This is going to be fun.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 Jun 2016 05:25:11 -0400</pubDate>
-        <link>http://localhost:4000/2016/06/13/an_outlet.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/06/13/an_outlet.html</guid>
         
         
       </item>
