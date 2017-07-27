@@ -8,7 +8,7 @@
       {% for page in site.pages %}
         {% if page.title %}
         <a class="page-link" href="{{ "/" | prepend: site.baseurl }}">Gregg.io</a>
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        <a class="page-link" href="{{ /about | prepend: site.baseurl }}">{{ page.title }}</a>
         {% endif %}
       {% endfor %}
       <a class="twitter page-link" href="https://twitter.com/greggcorp"><span class="fa fa-twitter"></span></a>
