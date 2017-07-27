@@ -4,16 +4,10 @@
 
 <!-- Site navigation -->
   <nav class="site-nav">
-    <div class="trigger">
-      {% for page in site.pages %}
-        {% if page.title %}
-        <a class="page-link" href="{{ "/" | prepend: site.baseurl }}">Gregg.io</a>
-        <a class="page-link" href="{{ /about | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endif %}
-      {% endfor %}
+      <a class="page-link" href="{{ "/" | prepend: site.baseurl }}">Gregg.io</a>
+      <a class="page-link" href="{{ "/about" | prepend: site.baseurl }}">About</a>
       <a class="twitter page-link" href="https://twitter.com/greggcorp"><span class="fa fa-twitter"></span></a>
       <a class="linkedin page-link" href="https://www.linkedin.com/in/greggbernstein"><span class="fa fa-linkedin"></span></a>
-    </div>
   </nav>
 
   <!-- The title of the site -->
