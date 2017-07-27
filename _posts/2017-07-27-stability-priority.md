@@ -17,19 +17,19 @@ With Ainge empowered to work without fear of impetuous ownership, and Stevens un
 
 When meeting with prospective players, Ainge and Stevens can talk up their talented roster. They can show off their facilities. But the calm of stability is a competitive advantage that few rival teams can match.
 
-What can other organizations learn from the model of stability established by the Celtics?
+So what makes for a stable organization?
 
-**The best organizations minimize upheaval**
+**Stable organizations minimize upheaval**
 
-Teams grow, as do layers of management. That’s normal. But if on a regular basis your organization is changing leadership, groups, team names, and titles, and if employees are often moving from manager to manager and team to team, your org is unstable.
+Steady leadership and a thoughtful division of labor and practices mitigate stress and churn.
 
-**The best organizations form a longterm strategy and execute it**
+**Stable organizations form and execute a longterm strategy**
 
-A solid strategy maximizes planning and minimizes surprise. It allows for the growth and development of individual contributors and managers. Poor strategies formed by shortsighted leadership stunt organizational growth. Repeated course correction leads to employee churn, and is a sign of a blighted and unstable company. Applicant beware.
+A solid strategy maximizes planning and minimizes surprise. It allows for the growth and development of everyone from individual contributors to managers and executives.
 
-**The best organizations pace themselves**
+**Stable organizations pace themselves**
 
-The Celtics team goes through periods of winning and losing, but management doesn't make rash, reactionary decisions from game to game or from season to season. They stick to their plans and work toward their common goal. When an organization changes strategy, it’s also changing the workflows and workloads of everyone within that organization. Everyone must work faster and harder just to adjust, which will introduce exhaustion, burnout, and churn.
+Stability begets an implicit understanding of a normal workflow and workload for everyone within an organization. That steady workflow prevents exhaustion, burnout, and churn.
 
 Stability informs every facet of every part of an organization, and the best orgs make stability a priority.
 
