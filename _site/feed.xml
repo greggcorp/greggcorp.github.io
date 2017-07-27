@@ -6,9 +6,48 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 May 2017 17:47:20 -0400</pubDate>
-    <lastBuildDate>Tue, 30 May 2017 17:47:20 -0400</lastBuildDate>
+    <pubDate>Thu, 27 Jul 2017 15:25:14 -0400</pubDate>
+    <lastBuildDate>Thu, 27 Jul 2017 15:25:14 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Make Stability a Priority</title>
+        <description>&lt;p&gt;The Boston Celtics are a professional basketball team. What you might not know is that the Celtics are also an exemplar of organizational management. From their front office operation to their on-court product, the Celtics maintain an org structure that attracts great talent from top to bottom.&lt;/p&gt;
+
+&lt;p&gt;The Celtics, in how they run their organization, &lt;strong&gt;make stability a priority&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Product management is product management, whether the product is a basketball team or an app or a service. So what makes the Celtics’ management stand out?&lt;/p&gt;
+
+&lt;p&gt;Their ownership group is &lt;em&gt;stable&lt;/em&gt;. You don’t hear of petty squabbles among their key executives. Their leadership is collaborative, supportive, and tenured. General manager Danny Ainge has been at the helm since 2003, and will be in place for the foreseeable future. Head coach Brad Stevens, 40, arrived in 2013 to replace Doc Rivers, who had run the team since 2004. Stevens is set to remain in his position for as long as he wants. Leaders remain with the Celtics—they’re a destination, not a stop.&lt;/p&gt;
+
+&lt;p&gt;With Ainge empowered to work without fear of impetuous ownership, and Stevens unleashed to coach unfettered from  capricious management, the team simply wins. And they win because their leadership is mandated to set longterm strategy, recruit players that execute that strategy, and coach and mentor to fulfill that strategy. It’s a stable operating environment.&lt;/p&gt;
+
+&lt;p&gt;When meeting with prospective players, Ainge and Stevens can talk up their talented roster. They can show off their facilities. But the calm of stability is a competitive advantage that few rival teams can match.&lt;/p&gt;
+
+&lt;p&gt;What can other organizations learn from the model of stability established by the Celtics?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The best organizations minimize upheaval&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Teams grow, as do layers of management. That’s normal. But if on a regular basis your organization is changing leadership, groups, team names, and titles, and if employees are often moving from manager to manager and team to team, your org is unstable.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The best organizations form a longterm strategy and execute it&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A solid strategy maximizes planning and minimizes surprise. It allows for the growth and development of individual contributors and managers. Poor strategies formed by shortsighted leadership stunt organizational growth. Repeated course correction leads to employee churn, and is a sign of a blighted and unstable company. Applicant beware.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The best organizations pace themselves&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Celtics team goes through periods of winning and losing, but management doesn’t make rash, reactionary decisions from game to game or from season to season. They stick to their plans and work toward their common goal. When an organization changes strategy, it’s also changing the workflows and workloads of everyone within that organization. Everyone must work faster and harder just to adjust, which will introduce exhaustion, burnout, and churn.&lt;/p&gt;
+
+&lt;p&gt;Stability informs every facet of every part of an organization, and the best orgs make stability a priority.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I first learned of the Celtics’ belief in stability as a priority from a 2016 podcast with ESPN’s &lt;a href=&quot;https://twitter.com/kevinarnovitz&quot;&gt;Kevin Arnovitz&lt;/a&gt; (the link to which I cannot find).&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Jul 2017 07:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2017/07/27/stability-priority.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/27/stability-priority.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>The Field Test</title>
@@ -250,54 +289,6 @@ I want my colleagues to be aware of what I just learned, and who I learned it fr
         <pubDate>Thu, 07 Jul 2016 10:34:25 -0400</pubDate>
         <link>http://localhost:4000/2016/07/07/everything.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/07/07/everything.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Stars, Ships, and Expectations</title>
-        <description>&lt;p&gt;The products we use are the result of countless compromises and tradeoffs before we even experience them. Every engineering specification, and every design decision, stem from discussions we’re not privy to about form, time, effort, budget, and so many other considerations.&lt;/p&gt;
-
-&lt;p&gt;Once a product is brought forth into the world, our individual experiences with it introduce context and variables that can stretch far beyond what its designers envisioned. How I use a product differs from how you use it, where you use it, when you use it.&lt;/p&gt;
-
-&lt;p&gt;I say this because last week, I wrote about &lt;a href=&quot;/2016-06-14-android-future/&quot;&gt;the anti-experience&lt;/a&gt; of the Android operating system. My thesis was that Android is a loose collection of disparate experiences:&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/devolute&quot;&gt;@devolute&lt;/a&gt; &lt;a href=&quot;https://twitter.com/RWD&quot;&gt;@RWD&lt;/a&gt; The right UX shouldn&amp;#39;t be a game of Android Lotto.&lt;/p&gt;&amp;mdash; Gregg Bernstein (@greggcorp) &lt;a href=&quot;https://twitter.com/greggcorp/status/748179776477798400&quot;&gt;June 29, 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;With all the thoughtful decisions that yielded the latest Android operating system, every phone carrier, manufacturer, and model adds a variable that yields vastly different outputs. &lt;a href=&quot;https://twitter.com/beep&quot;&gt;Ethan Marcotte&lt;/a&gt; added the technical context I had neglected by linking to the slide deck in this tweet:&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-cards=&quot;hidden&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;“If somebody tells you they tested their website on Android, laugh evilly and show them this slidedeck.”&lt;a href=&quot;http://t.co/T14Upqoym5&quot;&gt;http://t.co/T14Upqoym5&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;p much&lt;/p&gt;&amp;mdash; Responsive Design (@RWD) &lt;a href=&quot;https://twitter.com/RWD/status/488782076502896640&quot;&gt;July 14, 2014&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;TL;DR: the best possible version of Android is doomed to failure by an impossibility of contexts.&lt;/p&gt;
-
-&lt;p&gt;Ian Parr responded to my article:&lt;/p&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/RWD&quot;&gt;@RWD&lt;/a&gt; &lt;a href=&quot;https://twitter.com/greggcorp&quot;&gt;@greggcorp&lt;/a&gt; I presume you’ve been told that you bought the wrong Android phone if you wanted the unified experience you talk about&lt;/p&gt;&amp;mdash; devolute (@devolute) &lt;a href=&quot;https://twitter.com/devolute/status/748177489785163776&quot;&gt;June 29, 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Similarly, Jiri Jerabek wrote:&lt;/p&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/greggcorp&quot;&gt;@greggcorp&lt;/a&gt; Nexus is Google&amp;#39;s &amp;#39;North Star&amp;#39; for 3rd parties. I&amp;#39;m not sure whether what you described is a &amp;#39;problem&amp;#39; for the majority of users.&lt;/p&gt;&amp;mdash; Jiri Jerabek (@JiriJerabek) &lt;a href=&quot;https://twitter.com/JiriJerabek/status/748195407730180096&quot;&gt;June 29, 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Both Ian and Jiri raise interesting points about the roles of North Stars and flagships, and where reasonable expectations give way to diminishing returns. A design &lt;a href=&quot;https://medium.com/the-year-of-the-looking-glass/designs-north-star-d469193063c5#.7ggv7r5te&quot;&gt;North Star&lt;/a&gt;, as described by Facebook’s Julie Zhou, is an achievable, realistic, inspiring, and unifying vision. At its core, a North Star provides internal guidance to the team building a product.&lt;/p&gt;
-
-&lt;p&gt;Inversely, a flagship is the brand or service for which a company is most well known. The flagship is determined by audience size, sales figures, or popularity. &lt;strong&gt;It’s an outcome, not a goal.&lt;/strong&gt; The Accord is Honda’s flagship automobile, just as the Air Jordan remains Nike’s flagship shoe and Windows arguably represents Microsoft.&lt;/p&gt;
-
-&lt;p&gt;With all eyes on a flagship, it’s incumbent on a company to reserve their latest innovations for these popular offerings. In Android’s case, we can see that updating their flagship Nexus phones has two potential goals:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;It signals that Google isn’t resting on its laurels&lt;/li&gt;
-  &lt;li&gt;It introduces a halo effect for the rest of the brand. That is, what’s seen in the Nexus is reflected to varying degrees in offerings from Samsung, HTC, Motorola, and on down the line.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;And this illustrates the difficult position Android finds itself in, as their flagship Nexus phones are &lt;em&gt;also&lt;/em&gt; positioned as partner-facing North Stars: beacons of achievable, realistic &lt;em&gt;possibilities&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;But possibilities yield to &lt;em&gt;expectations&lt;/em&gt;. The expectation is that the innovations in the flagship will surface elsewhere, which for an Android purchaser is a risky proposition. What appears in the flagship, however tightly correlated to the North Star that brought it to life, has no guarantee of trickling down to mass production.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 06 Jul 2016 10:34:25 -0400</pubDate>
-        <link>http://localhost:4000/2016/07/06/stars-ships.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/07/06/stars-ships.html</guid>
         
         
       </item>
