@@ -6,9 +6,42 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Jul 2017 18:28:10 -0400</pubDate>
-    <lastBuildDate>Thu, 27 Jul 2017 18:28:10 -0400</lastBuildDate>
+    <pubDate>Sun, 06 Aug 2017 17:33:00 -0400</pubDate>
+    <lastBuildDate>Sun, 06 Aug 2017 17:33:00 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>The Field Means Proximity</title>
+        <description>&lt;p&gt;In my role as a researcher on a product team, I spend a lot of time talking to users. It’s always a worthy endeavor—I get to learn about workflows, habits, and the larger context surrounding the person I’m speaking with.&lt;/p&gt;
+
+&lt;p&gt;Fieldwork, however, takes those talks and enhances them. Fieldwork offers proximity, and proximity unlocks everything.&lt;/p&gt;
+
+&lt;p&gt;A funny thing happens the longer you spend in close proximity with someone—your connection strengthens. You develop a rapport and a sense of trust. Only once this sense of trust is established does honesty emerge.&lt;/p&gt;
+
+&lt;p&gt;To illustrate, here’s a very unscientific chart that you will not see in the &lt;em&gt;New England Journal of Product Research&lt;/em&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/chart.png&quot; alt=&quot;An unscientific chart about research proximity.&quot; title=&quot;An unscientific chart about research proximity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When I managed MailChimp’s research practice, we performed field studies often. A few years ago, a fellow researcher and I were in Denver, Colorado to visit customers at their respective workplaces. We spent roughly half a day with each customer, learning about their companies and roles and where our product fit in. These hours were uniformly educational—we left each visit with new insights to share with colleagues back at HQ.&lt;/p&gt;
+
+&lt;p&gt;Two visits from this trip stand out. On our first morning in Denver, our very first visit was with an ecommerce startup. After a bit of small talk and an hour of conversation about his business, our customer suddenly said that he wasn’t sure he would remain a customer much longer. He was looking at competitors and planning to leave.&lt;/p&gt;
+
+&lt;p&gt;He had just presented his ecommerce and marketing operations to us, and described where our product fit in. But he went on to explain that our competitors offered a host of features that we couldn’t match. While disappointing to hear, it was helpful information to understand the process our customer went through to even arrive at this point.&lt;/p&gt;
+
+&lt;p&gt;The next day, we visited another customer—a high profile and, by all appearances, model customer. Again, after over an hour of small and shop talk, this customer too announced that he had been thinking of leaving. And he explained his ambitious marketing plans and the tools offered by our competitors and they ways in which we (seemingly) didn’t stack up.&lt;/p&gt;
+
+&lt;p&gt;We chose to visit the specific customers on this trip because they &lt;em&gt;seemed&lt;/em&gt; to be doing everything right, and using our product to great success. But had we not visited their offices, over a thousand miles away from MailChimp HQ, we would never have known why they left. We would never have gotten their perspective on why we were no longer the right fit going forward. Instead of being in the dark, we had explanations.&lt;/p&gt;
+
+&lt;p&gt;All of this came about because of proximity—because we set aside time to enter the field, gave our undivided attention to our customers, and provided our conversations room to breathe and meander and hold meaning. The proximity of field work pays off.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;For more on fieldwork, see my recent &lt;a href=&quot;https://medium.com/the-field-study-handbook/the-field-test-5a243e71ff35&quot;&gt;Medium post for Jan Chipchase’s Field Study Handbook&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Aug 2017 07:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2017/08/06/proximity.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/06/proximity.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Make Stability a Priority</title>
@@ -264,31 +297,6 @@ I want my colleagues to be aware of what I just learned, and who I learned it fr
         <pubDate>Fri, 22 Jul 2016 10:34:25 -0400</pubDate>
         <link>http://localhost:4000/2016/07/22/listen.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/07/22/listen.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Everything is Important</title>
-        <description>&lt;p&gt;I spend a lot of my days interviewing people. Or rather, listening to people—coworkers, customers, and professional colleagues.&lt;/p&gt;
-
-&lt;p&gt;Most of these conversations stem from a research project, or a desire to improve my research skills. Regardless, I approach my interviews with the mindset that &lt;strong&gt;everything is important, until proven otherwise.&lt;/strong&gt; I believe this mantra makes me a better researcher, and provides me with better research findings. Here’s why:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;If everything is important, I don’t want to miss a thing&lt;/strong&gt;. I stay on my toes, enthralled by every single thing I’m hearing. If it’s important enough that someone is sharing it with me, it’s important enough to receive my undivided, enthusiastic attention.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;If everything is important, I’m disinclined to steer the conversation in a selfish direction&lt;/strong&gt;. That’s not to say I throw my own interview goals out the window, but I favor the direction set forth by my participant.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;If everything is important, the conversation holds meaning for us both&lt;/strong&gt;. My participant has a partner in me who can listen, reflect, validate, and elicit further thoughts. I get to learn something, and exit the conversation more insightful than I entered.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This mindset scales beyond conversations. A couple of years ago I described how I apply it to all sorts of data—like support emails and analytics—in &lt;a href=&quot;http://us5.campaign-archive1.com/?awesome=no&amp;amp;u=7e093c5cf4&amp;amp;id=361d158320&quot;&gt;Radicalizing Data&lt;/a&gt;. Simon Ouderkirk of WordPress &lt;a href=&quot;https://www.helpscout.net/blog/using-support-data-you-have/&quot;&gt;shares a similar philosophy&lt;/a&gt; of “assuming best intent” and maintaining “optimistic curiosity” in his wonderful post for Help Scout.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;By embracing optimism, we invest in the belief that what’s in front of us holds meaning.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;It’s too easy to become calcified, to assume that we’ve heard it all before, to judge rather than journal. The best case scenario to assuming importance is that we gain wisdom and empathy. There is no worst case scenario.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 07 Jul 2016 10:34:25 -0400</pubDate>
-        <link>http://localhost:4000/2016/07/07/everything.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/07/07/everything.html</guid>
         
         
       </item>
