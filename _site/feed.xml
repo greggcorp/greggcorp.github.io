@@ -6,9 +6,34 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Aug 2017 17:33:00 -0400</pubDate>
-    <lastBuildDate>Sun, 06 Aug 2017 17:33:00 -0400</lastBuildDate>
+    <pubDate>Tue, 08 Aug 2017 15:23:46 -0400</pubDate>
+    <lastBuildDate>Tue, 08 Aug 2017 15:23:46 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Scope and Scale</title>
+        <description>&lt;p&gt;As a kid, I used to be fascinated by nearby houses obscured by foliage and fences. Or the long driveways that disappeared into the distance. Where did they go? What was out there? &lt;em&gt;Who&lt;/em&gt; was out there?&lt;/p&gt;
+
+&lt;p&gt;I knew the hidden houses were likely no different than those I could plainly see. And the people within were probably similar to the neighbors next door. But without seeing those houses, and without knowing those occupants, I couldn’t be sure. I was in the dark.&lt;/p&gt;
+
+&lt;p&gt;One of the first things I did after the launch of Google Maps was to virtually fly over the streets of my youth, and solve the mysteries of the hidden houses. Finally, my unanswerable questions could be easily answered. I followed long driveways to small ranch houses. Forested lots yielded to clearings containing some of the oldest homes in the area. Privacy fences no longer served their intended purpose, and I was finally able to see a holistic view of my old neighborhood.&lt;/p&gt;
+
+&lt;p&gt;In my work as a researcher, I have a tendency to think of the data I need in much the same way I thought about the houses of my youth: it might be fenced off or hidden, but it’s there. And once I find it, I will have a clearer picture.&lt;/p&gt;
+
+&lt;p&gt;Within every organization, there’s plenty of information for the taking. Some of it is in plain sight. Some is easily obtained by asking. But some of the data is siloed. Or lost. Or not recognized as something worth sharing.&lt;/p&gt;
+
+&lt;p&gt;You can go crazy trying to accumulate every piece of data–the customer feedback, the survey responses, the sales figures, the NPS scores, the old interview transcripts… there’s always another piece to the puzzle.&lt;/p&gt;
+
+&lt;p&gt;Here’s the thing: product research is not a puzzle to be solved—it’s a journey. I don’t need the complete picture; &lt;strong&gt;I only need a direction&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I never &lt;em&gt;needed&lt;/em&gt; the entire map of my neighborhood. I got around just fine. Some data might be enough data.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Aug 2017 07:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2017/08/08/scope-and-scale.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/08/scope-and-scale.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>The Field Means Proximity</title>
@@ -260,43 +285,6 @@ I want my colleagues to be aware of what I just learned, and who I learned it fr
         <pubDate>Sun, 16 Oct 2016 07:34:25 -0400</pubDate>
         <link>http://localhost:4000/2016/10/16/mouth.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/10/16/mouth.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Listen Hard</title>
-        <description>&lt;p&gt;Listening is &lt;em&gt;hard&lt;/em&gt;. It takes effort, patience, and practice. All at once, you’re taking in a narrative, providing cues that you’re engaged (nodding, saying “um-hmm”), analyzing what’s taking place, mulling over cogent responses, and mentally filing away bits to return to later.&lt;/p&gt;
-
-&lt;p&gt;Doing so professionally adds additional tasks: documenting everything, missing nothing, and staying somewhat on course.&lt;/p&gt;
-
-&lt;p&gt;In reading about interview techniques, I came across another way to listen: the &lt;strong&gt;voice-relational analysis&lt;/strong&gt;. Typically this happens after an interview is completed—when you’re reviewing transcripts. But perform this analysis enough and you begin to do so &lt;em&gt;while listening&lt;/em&gt;, giving you a more accurate perspective on what you’re hearing, and directions for new questions.&lt;/p&gt;
-
-&lt;p&gt;Here’s how the voice-relational analysis works:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Listen for plot&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This is what you’re already doing—you’re capturing the story.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Listen for voice&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Let’s say we’re talking about software, and I ask, “What apps do you use?” Here’s a typical response:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I use Gmail and Evernote. Oh, and we also use Microsoft Word.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The shift from “I” to “We” is telling—this person expresses personal preference versus organizational requirements by shifting voice. She likes Gmail and Evernote, but her company has saddled everyone with Word. (Of course, this might not be the entire story, but now we have an opportunity to explore further.)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Listen for roles&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Using the same answer above, we can determine the role of the person we’re listening to. The statement, “We use Microsoft Word,” seems to imply that selecting Word was &lt;em&gt;someone else’s&lt;/em&gt; choice. We can begin to form an org chart in our heads, and this person is not at the top. (Again, this might not be entirely true, but it provides us with more questions as we listen further.)&lt;/p&gt;
-
-&lt;p&gt;Listening for role tells us who is empowered, versus who is not in a position of authority. If you’re trying to sell a product, or determine who might be authorized to make a purchase, this is solid gold.&lt;/p&gt;
-
-&lt;p&gt;Listening is hard, but so crucial. Listen hard enough and you’ll gain empathy and understanding. You’ll hear what you need to build the right experience for the right person.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Jul 2016 10:34:25 -0400</pubDate>
-        <link>http://localhost:4000/2016/07/22/listen.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/07/22/listen.html</guid>
         
         
       </item>
