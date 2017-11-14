@@ -21,7 +21,7 @@ Two visits from this trip stand out. On our first morning in Denver, our very fi
 
 He had just presented his ecommerce and marketing operations to us, and described where our product fit in. But he went on to explain that our competitors offered a host of features that we couldn’t match. While disappointing to hear, it was helpful information to understand the process our customer went through to even arrive at this point.
 
-The next day, we visited another customer—a high profile and, by all appearances, model customer. Again, after over an hour of small and shop talk, this customer too announced that he had been thinking of leaving. And he explained his ambitious marketing plans and the tools offered by our competitors and they ways in which we (seemingly) didn’t stack up.
+The next day, we visited another customer—a high profile and, by all appearances, model customer. Again, after over an hour of small and shop talk, this customer too announced that he had been thinking of leaving. And he explained his ambitious marketing plans and the tools offered by our competitors and the ways in which we (seemingly) didn’t stack up.
 
 We chose to visit the specific customers on this trip because they *seemed* to be doing everything right, and using our product to great success. But had we not visited their offices, over a thousand miles away from MailChimp HQ, we would never have known why they left. We would never have gotten their perspective on why we were no longer the right fit going forward. Instead of being in the dark, we had explanations.
 

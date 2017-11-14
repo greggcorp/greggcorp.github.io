@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Gregg Bernstein is Senior User Researcher at [Vox Media](http://www.voxmedia.com). He spends his days listening, thinking, collaborating, analyzing, writing, and then listening some more. He also speaks around the world about his work at conferences (User Research London 2017, UX2016 Copenhagen, WebExpo Prague 2015, Web á Québec 2015, Giant Conference 2014) and for such companies as Etsy, EA Games, Fullstory, and more.
+Gregg Bernstein is Senior User Researcher at [Vox Media](http://www.voxmedia.com). He spends his days listening, thinking, collaborating, analyzing, writing, and then listening some more. He also speaks around the world about his work at conferences (recently at UX Bucharest 2017, User Research London 2017, and UX2016 Copenhagen) and for such companies as Etsy, EA Games, Fullstory, and more.
 
-He built an innovative and influential research practice over his four years at [MailChimp](http://www.mailchimp.com), and taught design, branding, and typography at Georgia State University. In a previous life, he designed for clients in the music and advertising industries. [Visit the archive](../archive).
+He built an innovative and influential research practice at [MailChimp](http://www.mailchimp.com), and taught design, branding, and typography at Georgia State University. In a previous life, he designed for clients in the music and advertising industries. [Visit the archive](../archive).
 
 Gregg earned his MFA in Graphic Design from the Savannah College of Art &amp; Design, where he focused on user experience research and design. He resides with his family in Athens, Georgia. In his spare time, he runs early and often.
 
