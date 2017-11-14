@@ -27,4 +27,4 @@ It's a small change that provides both a measure of and the impetus for said rec
 
 ---
 
-We are capable of building amazing products and experiences that exceed the imaginations of our users and customers, but those experiences begin with a solid foundation based in reality.
+We are capable of building amazing products and experiences that exceed the expectations of our users and customers, but those experiences begin with a solid foundation based in reality.
