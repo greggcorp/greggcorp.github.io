@@ -11,4 +11,4 @@ For _The Verge_, I wrote about Facebook's news trustworthiness survey. While its
 
 I want to take a second to admit how surreal it is to open this update with "For _The Verge_." When I was finishing grad school, _The Verge_ launched. I knew immediately that it would become one of my favorite websites, and came very, very close to introducing myself via email to see what use they might have for a UX researcher or designer. That I ended up working with and contributing to _The Verge_ a few short years later is a career highlight.
 
-[Read the entire post on the Verge](https://www.theverge.com/2018/1/26/16933458/facebook-news-trust-survey-problems-editing).
+[Read the entire post on _The Verge_](https://www.theverge.com/2018/1/26/16933458/facebook-news-trust-survey-problems-editing).
