@@ -6,9 +6,28 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Nov 2017 10:35:41 -0500</pubDate>
-    <lastBuildDate>Tue, 14 Nov 2017 10:35:41 -0500</lastBuildDate>
+    <pubDate>Fri, 26 Jan 2018 20:06:09 -0500</pubDate>
+    <lastBuildDate>Fri, 26 Jan 2018 20:06:09 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Facebook's News Trustworthiness Survey</title>
+        <description>&lt;p&gt;For the Verge, I wrote about Facebook’s news trustworthiness survey. While its brevity is gaining attention, the real issue with the Facebook survey is poor editing:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For their paean to minimalism, I salute the team behind this survey. However, the problem here isn’t that the survey is short. Rather, the two survey questions are phrased poorly.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I want to take a second to admit how surreal it is to open this update with “For the Verge.” When I was finishing grad school, the Verge launched. I knew immediately that it would become one of my favorite websites, and came very, very close to introducing myself via email to see what use they might have for a UX researcher or designer. That I ended up working with and contributing to the Verge a few short years later is a career highlight.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/2018/1/26/16933458/facebook-news-trust-survey-problems-editing&quot;&gt;Read the entire post on the Verge&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Jan 2018 04:34:25 -0500</pubDate>
+        <link>http://localhost:4000/2018/01/26/facebook-survey.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/01/26/facebook-survey.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Stop Pretending</title>
@@ -278,29 +297,6 @@ I want my colleagues to be aware of what I just learned, and who I learned it fr
         <pubDate>Sun, 20 Nov 2016 09:34:25 -0500</pubDate>
         <link>http://localhost:4000/2016/11/20/parts.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/11/20/parts.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Research Resources</title>
-        <description>&lt;p&gt;I’m often asked my favorite research resources, so I’ve put together a very brief list of go-to books and articles. These are suitable for researchers, designers, or product managers of any level of expertise:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://abookapart.com/products/just-enough-research&quot;&gt;Just Enough Research&lt;/a&gt;: Erika Hall masterfully explains the elements of research as they relate to products, design, and users.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://rosenfeldmedia.com/books/interviewing-users/&quot;&gt;Interviewing Users&lt;/a&gt;: Talking to users is essential to build the right products for the right audience, and Steve Portigal demonstrates how to do it right.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.howtomakesenseofanymess.com/&quot;&gt;How to Make Sense of Any Mess&lt;/a&gt;: Research is information, and Abby Covert organizes it in ways that help frame and solve messy problems.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://library.gv.com/tagged/user-research&quot;&gt;Google Ventures User Research Library&lt;/a&gt;: Stories, documentation, and resources from one of the best design teams on the planet.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/&quot;&gt;The UX Research Plan That Stakeholders Love&lt;/a&gt;: UX leader Tomer Sharon shares a concise and powerful way to think about, frame, and share projects.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/&quot;&gt;Complete Beginner’s Guide to UX Research&lt;/a&gt;: The fine folks at UX Booth put together a great introduction to UX research, ranging from methods and tools to books and people to follow.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://abookapart.com/products/practical-design-discovery&quot;&gt;Practical Design Discovery&lt;/a&gt;: Dan Brown’s second chapter, “Frame the Problem,” provides a concise overview of practical design research.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Updated April 28, 2017 to include&lt;/em&gt; Practical Design Discovery &lt;em&gt;by  Dan Brown.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 18 Nov 2016 09:34:25 -0500</pubDate>
-        <link>http://localhost:4000/2016/11/18/resources.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/11/18/resources.html</guid>
         
         
       </item>
