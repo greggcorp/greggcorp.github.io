@@ -6,9 +6,47 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Mar 2018 14:02:57 -0500</pubDate>
-    <lastBuildDate>Fri, 02 Mar 2018 14:02:57 -0500</lastBuildDate>
+    <pubDate>Wed, 25 Apr 2018 23:28:39 -0400</pubDate>
+    <lastBuildDate>Wed, 25 Apr 2018 23:28:39 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Spread the good news</title>
+        <description>&lt;p&gt;&lt;strong&gt;Some workplace feedback rules of thumb:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I shared these workplace rules of thumb the other day, and wanted to expand on them a bit here.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Some workplace feedback rules of thumb:&lt;br /&gt;When someone who works for you does well, tell them and tell your manager.&lt;br /&gt;When someone who works with you does well, tell them, tell their manager, and tell your manager.&lt;br /&gt;When your manager does well, tell them and tell their manager.&lt;/p&gt;&amp;mdash; Gregg Bernstein (@greggcorp) &lt;a href=&quot;https://twitter.com/greggcorp/status/988811097661693952?ref_src=twsrc%5Etfw&quot;&gt;April 24, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;When someone who works &lt;strong&gt;for&lt;/strong&gt; you does well, &lt;em&gt;tell them and tell your manager.&lt;/em&gt; &lt;/p&gt;
+
+&lt;p&gt;Tell them because everyone wants to know how they’re performing. And tell your manager in order to boost your direct report’s reputation and signal that they might be ready for greater responsibilities.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;When someone who works &lt;strong&gt;with&lt;/strong&gt; you does well, &lt;em&gt;tell them, tell their manager, and tell your manager.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Again, people should be recognized for a job well done. But that work might go unnoticed by those who need to know about it—take a minute to tell both your colleague’s manager as well as your manager.  Your colleague’s manager will appreciate the unsolicited feedback, and &lt;em&gt;your&lt;/em&gt; manager is now aware of an employee with a good reputation (and your own magnanimity).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;When &lt;strong&gt;your manager&lt;/strong&gt; does well, &lt;em&gt;tell them and tell their manager.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Positive feedback should travel up, too—managers should hear of a job well done just like everyone else. Go a step further and pass that feedback to your manager’s manager to convey your manager’s effectiveness.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;When the only feedback is negative, good people leave, bad people stay, and everyone wonders why company culture isn’t what it once was. Spread the good news.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Apr 2018 05:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2018/04/25/work-feedback.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/25/work-feedback.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Facebook's News Trustworthiness Survey</title>
@@ -254,49 +292,6 @@ I want my colleagues to be aware of what I just learned, and who I learned it fr
         <pubDate>Mon, 30 Jan 2017 06:34:25 -0500</pubDate>
         <link>http://localhost:4000/2017/01/30/capture.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/01/30/capture.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Parts Bin</title>
-        <description>&lt;p&gt;Sometimes you propose something to your colleagues, but it’s not met with much enthusiasm.&lt;/p&gt;
-
-&lt;p&gt;Sometimes a good design isn’t quite good enough.&lt;/p&gt;
-
-&lt;p&gt;And sometimes a great idea works well on its own but not in concert with other parts.&lt;/p&gt;
-
-&lt;p&gt;You could choose to see these as setbacks or disappointments. &lt;em&gt;Or you could see them as parts&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Back when I worked at &lt;a href=&quot;http://mailchimp.com/&quot;&gt;MailChimp&lt;/a&gt;, I was introduced to the concept of the &lt;strong&gt;parts bin&lt;/strong&gt; by our CEO, &lt;a href=&quot;http://twitter.com/benchestnut&quot;&gt;Ben&lt;/a&gt;. To Ben, every design or prototype held merit, regardless of whether it amounted to anything. At some point, those half-baked designs would become valuable in service to even better ideas.&lt;/p&gt;
-
-&lt;p&gt;The parts bin became a research mindset for me and others at the company, as evidenced by our adoption of Evernote as a &lt;a href=&quot;http://alistapart.com/article/connected-ux&quot;&gt;repository for anything research-related&lt;/a&gt;. A stray data point might not be useful today, but we figured it would be useful to &lt;em&gt;someone, someday&lt;/em&gt;. As I’ve written before, &lt;a href=&quot;http://gregg.io/2016/07/07/everything.html&quot;&gt;everything is important&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The parts bin applies beyond design and research. When you frame your ideas as parts to be broken down and reconfigured time and time again, they become less precious and more practical.&lt;/p&gt;
-
-&lt;p&gt;The key is to hold onto them, and come up with a bin that works. Without the bin to document your ideas, parts will disappear into the ether. To that end, I want to share how I’ve set up my parts bin (or &lt;em&gt;bins&lt;/em&gt;, in my case).&lt;/p&gt;
-
-&lt;h2 id=&quot;ideas-and-inputs&quot;&gt;Ideas and Inputs&lt;/h2&gt;
-&lt;p&gt;I break my parts bins across two dimensions: &lt;strong&gt;ideas and inputs&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;When I have an &lt;strong&gt;idea&lt;/strong&gt;, I’m excited and need to capture it in a way that’s lightweight and actionable.&lt;/li&gt;
-  &lt;li&gt;When I come across context for an idea—be it an article, data visualization, document, or whatever—that’s an &lt;strong&gt;input&lt;/strong&gt; that I need to tag and archive.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For ideas, I rely on Wunderlist. This app allows me to keep multiple lists, with each list affording subtasks and a notes field. I keep a lot of lists, including people to talk to, articles to read, and posts I want to write.&lt;/p&gt;
-
-&lt;p&gt;Looking at the latter, I have dozens of writing ideas. Each idea typically contains a few points I want to make, along with a sentence (or a string of words) to help me remember the context in which I came up with the idea. For this post, the list looks like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/wl.png&quot; alt=&quot;This list hints at the structural pieces for this post—Ben at MailChimp, Wunderlist, Evernote, etc.&quot; title=&quot;Screenshot of Wunderlist&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I lean on Evernote for inputs. For instance, I’ve been studying cognitive interviews lately—a technique wonderfully documented in this recent &lt;a href=&quot;http://www.wired.com/2016/05/how-to-interrogate-suspects/&quot;&gt;Wired article&lt;/a&gt;. As I come across more literature on this topic, into my Evernote notebooks it goes.&lt;/p&gt;
-
-&lt;p&gt;These two repositories, or &lt;em&gt;parts bins&lt;/em&gt;, give me dozens of starting points and hundreds of supporting documents. And with a mindset that all of this will—in some way—prove useful, it’s a rewarding habit.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 20 Nov 2016 09:34:25 -0500</pubDate>
-        <link>http://localhost:4000/2016/11/20/parts.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/11/20/parts.html</guid>
         
         
       </item>
