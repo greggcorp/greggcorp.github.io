@@ -23,6 +23,8 @@ And here it is in text form:
 
 ***
 
+**Popular user research methods explained briefly**
+
 **Interview:** *Listen to people, distill findings*
 
 
