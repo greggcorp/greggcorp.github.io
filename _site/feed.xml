@@ -6,9 +6,80 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Apr 2018 23:28:39 -0400</pubDate>
-    <lastBuildDate>Wed, 25 Apr 2018 23:28:39 -0400</lastBuildDate>
+    <pubDate>Fri, 04 May 2018 14:43:08 -0400</pubDate>
+    <lastBuildDate>Fri, 04 May 2018 14:43:08 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>User research methods, explained briefly</title>
+        <description>&lt;p&gt;This made the rounds on Twitter recently, so I thought I’d give it a proper home:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Popular user research methods, explained briefly. &lt;a href=&quot;https://t.co/RnOBX0CQxO&quot;&gt;pic.twitter.com/RnOBX0CQxO&lt;/a&gt;&lt;/p&gt;&amp;mdash; Gregg Bernstein (@greggcorp) &lt;a href=&quot;https://twitter.com/greggcorp/status/989173444754444288?ref_src=twsrc%5Etfw&quot;&gt;April 25, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;The brevity of Twitter, combined with my pithy explanations, resulted in some helpful suggestions on how this tweet might be improved. To wit, both researcher and author &lt;a href=&quot;https://twitter.com/danachis&quot;&gt;Dana Chisnell&lt;/a&gt; and researcher &lt;a href=&quot;https://twitter.com/bkoloski&quot;&gt;Beth Koloski&lt;/a&gt; suggested I replace “talk to people” with “listen to people.” I had originally landed on “talk” as the precedent to the act of listening, but “listen” really is the key.&lt;/p&gt;
+
+&lt;p&gt;Here’s a better version of the original tweet:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/methods_explained_2.png&quot; alt=&quot;User research methods, explained briefly.&quot; title=&quot;User research methods, explained briefly.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And here it is in text form:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Interview:&lt;/strong&gt; &lt;em&gt;Listen to people, distill findings&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Survey:&lt;/strong&gt; &lt;em&gt;Listen to people indirectly, distill findings&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Usability test:&lt;/strong&gt; &lt;em&gt;Listen to people about a thing, distill findings&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Contextual inquiry:&lt;/strong&gt; &lt;em&gt;Listen to people at their place, distill findings&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Field work:&lt;/strong&gt; &lt;em&gt;Listen to people away from your office, distill findings&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ethnography:&lt;/strong&gt; &lt;em&gt;Embed with people, distill findings&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jobs to be Done interview:&lt;/strong&gt; &lt;em&gt;Listen to people while doodling a timeline, distill findings&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Switch interview:&lt;/strong&gt; &lt;em&gt;Listen to people around a specific event, distill findings&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/afhill&quot;&gt;Andrea Hill&lt;/a&gt; and my former MailChimp colleague &lt;a href=&quot;https://twitter.com/sniffles&quot;&gt;Steph Troeth&lt;/a&gt; questioned my division of Switch interviews from Jobs to be Done [JTBD] interviews. That the switch interview is so tied to a very recent event differentiates it for me, but I might be splitting hairs. JTBD could be about a product or service you’ve used for years, and that—to me—makes it less about the switching moment and more about the role of the product in your life.&lt;/p&gt;
+
+&lt;p&gt;A handful of other folks responded that I left out the things that come before the methods, the rigor that comes around distillation, and the actionable insights that follow distillation.&lt;/p&gt;
+
+&lt;p&gt;This is accurate feedback—research requires:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;An understanding of the problem space&lt;/li&gt;
+  &lt;li&gt;Alignment with larger business goals&lt;/li&gt;
+  &lt;li&gt;Knowledge of the unanswered questions&lt;/li&gt;
+  &lt;li&gt;Convergence on the appropriate research toolkit to answer those questions&lt;/li&gt;
+  &lt;li&gt;Identification of the right people to listen to&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then we get to the &lt;strong&gt;listening to people&lt;/strong&gt; part that my tweet captured.&lt;/p&gt;
+
+&lt;p&gt;Then we move along to:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Synthesize what we heard&lt;/li&gt;
+  &lt;li&gt;Develop answers to the business and product questions&lt;/li&gt;
+  &lt;li&gt;Share our findings with different stakeholders in different ways&lt;/li&gt;
+  &lt;li&gt;Identify the remaining questions and next steps&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However, &lt;em&gt;this is a lot to fit in a tweet&lt;/em&gt;. And it’s still woefully thin.&lt;/p&gt;
+
+&lt;p&gt;The field of user research is maturing. As it does, it’s natural that our practices and methods mature too. However, with maturation comes dogma and codification—a clear delineation of the acceptable ways of doing something &lt;em&gt;and how to talk about it&lt;/em&gt;. This creates a barrier to entry for new practitioners.&lt;/p&gt;
+
+&lt;p&gt;Fundamentally, our field really is about &lt;strong&gt;listening to people to make better decisions&lt;/strong&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 May 2018 05:34:25 -0400</pubDate>
+        <link>http://localhost:4000/2018/05/04/research-methods-explained-briefly.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/04/research-methods-explained-briefly.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Spread the good news</title>
@@ -275,23 +346,6 @@ I want my colleagues to be aware of what I just learned, and who I learned it fr
         <pubDate>Wed, 19 Apr 2017 07:34:25 -0400</pubDate>
         <link>http://localhost:4000/2017/04/19/ambient.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/04/19/ambient.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Capture the Context</title>
-        <description>&lt;p&gt;On the Optimal Workshop blog, I explain that there’s so much more to interviews than asking and answering in &lt;a href=&quot;http://blog.optimalworkshop.com/capture-the-context-pro-tips-for-user-interviews&quot;&gt;Capture the Context&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Stories convey so much. The best stories contain enough rich, lived-in detail to elicit understanding and empathy. These contextual details flesh out words and actions, anchoring the story in place and time.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://blog.optimalworkshop.com/capture-the-context-pro-tips-for-user-interviews&quot;&gt;Read the entire post on the Optimal Workshop blog&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 30 Jan 2017 06:34:25 -0500</pubDate>
-        <link>http://localhost:4000/2017/01/30/capture.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/30/capture.html</guid>
         
         
       </item>
