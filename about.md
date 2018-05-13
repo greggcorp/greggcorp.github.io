@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Gregg Bernstein is Senior User Researcher at [Vox Media](http://www.voxmedia.com). He spends his days listening, thinking, collaborating, analyzing, writing, and then listening some more. He also speaks around the world about his work at conferences (recently at UX Insights Utrecht 2018, UX Bucharest 2017, User Research London 2017) and for such companies as Booking.com, Etsy, EA Games, Fullstory, and more.
+Gregg Bernstein is an accomplished user and product researcher with experience establishing user research practices for growing organizations. He spends his days advocating for and practicing user-centered product development, mostly in his role as senior user researcher for [Vox Media](http://www.voxmedia.com). He speaks around the world about his work at conferences, most recently at UX Insight 2018 (Utrecht), UX Bucharest 2017, and User Research London 2017, and for such companies as Booking.com, Etsy, EA Games, Fullstory, and more.
 
-He built an innovative and influential research practice at [MailChimp](http://www.mailchimp.com), and taught design, branding, and typography at Georgia State University. In a previous life, he designed for clients in the music and advertising industries. [Visit the archive](../archive).
+He built an innovative and influential research practice over his four years at [MailChimp](http://www.mailchimp.com), and taught design, branding, and typography at Georgia State University. In a previous life, he designed for clients in the music and advertising industries. [Visit the archive](../archive).
 
-Gregg earned his MFA in Graphic Design from the Savannah College of Art &amp; Design, where he focused on user experience research and design. He resides with his family in Athens, Georgia. In his spare time, he runs early and often.
+Gregg earned his MFA in Graphic Design from the Savannah College of Art & Design, where he focused on user experience research and design. He resides with his family in Athens, Georgia. In his spare time, he enjoys a long trail run and an iced cocktail, though not together.
 
 ----
 Get notified of the latest posts via my newsletter:
