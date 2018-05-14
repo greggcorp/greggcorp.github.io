@@ -11,6 +11,26 @@ He built an innovative and influential research practice over his four years at 
 Gregg earned his MFA in Graphic Design from the Savannah College of Art & Design, where he focused on user experience research and design. He resides with his family in Athens, Georgia. In his spare time, he enjoys a long trail run and an iced cocktail, though not together.
 
 ----
+# Speaking
+[UX Scotland](https://uxscotland.net) 13-14 June 2018
+
+[Webdagene Oslo](https://www.webdagene.no/en/) 17-19 October 2018
+
+----
+# Editing
+DesignOps Handbook (coming soon)
+
+[Principles of Product Design](https://www.designbetter.co/principles-of-product-design)
+
+[Design Thinking Handbook](https://www.designbetter.co/design-thinking)
+
+[Design Leadership Handbook](https://www.designbetter.co/design-leadership-handbook)
+
+[The UX Newsletter](http://www.theuxnewsletter.com/)
+
+[The UX Reader](https://theuxreader.com/)
+
+----
 Get notified of the latest posts via my newsletter:
 <div id="mc_embed_signup">
 <form action="//gregg.us13.list-manage.com/subscribe/post?u=e66f904b5ca03f5113861b947&amp;id=721994a3f9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
